@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Folder Expanded="Yes" Name="Diagrammes de classes">
+			<Model ID="{4E101198-B68C-4664-9EF2-523EB34F3A53}" Name="ModeleOrienteObjet_Configuration" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Configuration.moo"/>
+			<Model ID="{7380804C-A43E-4EA0-8431-F921D7AB320E}" Name="ModeleOrienteObjet_Filiere" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Filiere.moo"/>
+			<Model ID="{790D5369-D7E1-49D2-8FCE-B1E6C3F648BC}" Name="ModeleOrienteObjet_Module" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Module.moo"/>
+			<Model ID="{CCFAF629-841B-4405-869E-3B8ACA319912}" Name="ModeleOrienteObjet_Formateur" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Formateur.moo"/>
+			<Model Expanded="Yes" ID="{731BE618-FD25-4056-A1BB-8EE94E30F1FE}" Name="ModeleOrienteObjet_Prevision" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Prevision.moo"/>
+			<Model Expanded="Yes" ID="{3C707611-EBF0-49A6-99BA-600FE485129D}" Name="ModeleOrienteObjet_Seance" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Seance1.moo"/>
+			<Model Expanded="Yes" ID="{FDA1BDD8-EF6E-46B6-8138-AAA4AFBA9E46}" Loaded="No" Name="ModeleOrienteObjet_AnneeFormation" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Annee.moo"/>
+			<Model ID="{DD19FF97-FB49-4FD5-82D1-543ACF9523E2}" Loaded="No" Name="ModeleOrienteObjet_Groupe" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Groupe.moo"/>
+			<Model ID="{88E2E762-C5A4-4E75-919C-C45F2E71E9BC}" Loaded="No" Name="ModeleOrienteObjet_EmploisTemps" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_EmploisTemps.moo"/>
+			<Model Expanded="Yes" ID="{BF55867B-C025-4774-9CA5-E44F370A2475}" Loaded="No" Name="ModeleOrienteObjet_Absence" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Absence.moo"/>
+			<Model ID="{ACC2C18B-770B-45B4-AD42-1486EE260116}" Loaded="No" Name="ModeleOrienteObjet_Note" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Note.moo"/>
+			<Model ID="{7380804C-A43E-4EA0-8431-F921D7AB320E}" Loaded="No" Name="ModeleOrienteObjet_Filiere" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Filiere.moo"/>
+			<Model ID="{ACC2C18B-770B-45B4-AD42-1486EE260116}" Loaded="No" Name="ModeleOrienteObjet_Note" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Note.moo"/>
+			<Model ID="{92236C56-CD3E-4130-941F-A3946E795E6E}" Loaded="No" Name="ModeleOrienteObjet_Formation" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Formation.moo"/>
+			<Model ID="{C09D5D20-051E-4FD3-B371-B0993C69EFC8}" Loaded="No" Name="ModeleOrienteObjet_Stagiaire" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Stagiaire.moo"/>
+			<Model ID="{AE1E45AE-7046-454E-AAD3-5EC013DAD1FF}" Name="ModeleOrienteObjet_Sequences" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrammes/ModeleOrienteObjet_Sequences.moo"/>
+		</Folder>
+		<Folder Expanded="Yes" Name="MPD">
+			<Model ID="{928FA394-353A-442C-98B4-2131BED211B7}" Loaded="No" Name="ModeleOrienteObjet_Stagiaire" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagrammes/ModeleOrienteObjet_Stagiaire.mpd"/>
+			<Model ID="{39A7E918-CCA5-4FAB-9DCD-2F9A6EC3B2DA}" Loaded="No" Name="ModeleOrienteObjet_Filiere" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagrammes/ModeleOrienteObjet_Filiere.mpd"/>
+			<Model ID="{C6FBFF1A-BEB3-4A2B-B70F-A0DF252D6C1A}" Loaded="No" Name="ModeleOrienteObjet_Note" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagrammes/ModeleOrienteObjet_Note.mpd"/>
+			<Model ID="{6E18E9C6-0EB8-4B03-BE8A-CAD54628DD9C}" Name="ModeleOrienteObjet_Module" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagrammes/ModeleOrienteObjet_Module.mpd"/>
+			<Model Expanded="Yes" ID="{84CD8929-D164-4888-8C52-F50352BB1191}" Name="ModeleOrienteObjet_Sequences" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagrammes/ModeleOrienteObjet_Sequences.mpd"/>
+			<Model ID="{02BE1E51-58C3-4FCA-A50F-E97FDB5FA773}" Name="ModeleOrienteObjet_Configuration" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagrammes/ModeleOrienteObjet_Configuration.mpd"/>
+			<Model ID="{AF2D6725-2E4B-4EC2-BC58-A01D884F1ACA}" Name="ModeleOrienteObjet_Formateur" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagrammes/ModeleOrienteObjet_Formateur.mpd"/>
+			<Model ID="{663E06C9-1F99-44D0-9353-4BA65265F6AF}" Name="ModeleOrienteObjet_Prevision" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagrammes/ModeleOrienteObjet_Prevision.mpd"/>
+		</Folder>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
