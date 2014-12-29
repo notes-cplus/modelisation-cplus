@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{BF55867B-C025-4774-9CA5-E44F370A2475}" Label="" LastModificationDate="1419785878" Name="ModeleOrienteObjet_Absence" Objects="17" Symbols="5" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{BF55867B-C025-4774-9CA5-E44F370A2475}" Label="" LastModificationDate="1419847017" Name="ModeleOrienteObjet_Absence" Objects="17" Symbols="5" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1418,8 +1418,8 @@ MULA 0 Arial,8,N</a:FontList>
 <o:AssociationSymbol Id="o10">
 <a:CreationDate>1419782673</a:CreationDate>
 <a:ModificationDate>1419785829</a:ModificationDate>
-<a:Rect>((-17175,-852), (-1876,4650))</a:Rect>
-<a:ListOfPoints>((-3750,4650),(-3750,1305),(-17175,1305))</a:ListOfPoints>
+<a:Rect>((-17175,-852), (-1951,4650))</a:Rect>
+<a:ListOfPoints>((-3750,4650),(-3750,300),(-17175,300))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -1465,7 +1465,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:CreationDate>1419782646</a:CreationDate>
 <a:ModificationDate>1419782646</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-28124,-598), (-15226,4198))</a:Rect>
+<a:Rect>((-28124,-5466), (-15226,9066))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16770222</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1682,10 +1682,9 @@ LABL 0 Arial,8,N</a:FontList>
 <a:ObjectID>FBF5BD45-A9AC-41E1-97CF-3CBB832F6090</a:ObjectID>
 <a:Name>ModeleOrienteObjet_Stagiaire</a:Name>
 <a:Code>ModeleOrienteObjet_Stagiaire</a:Code>
-<a:ExtractionID>5046282</a:ExtractionID>
 <a:CreationDate>1419782646</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419782646</a:ModificationDate>
+<a:ModificationDate>1419847017</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:TargetModelURL>file:///C|/Users/ESSARRAJ/Documents/GitHub/modelisation-cplus/DiagrammesDeClasses/Diagrammes/ModeleOrienteObjet_Stagiaire.moo</a:TargetModelURL>
 <a:TargetModelID>C09D5D20-051E-4FD3-B371-B0993C69EFC8</a:TargetModelID>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{02BE1E51-58C3-4FCA-A50F-E97FDB5FA773}" Label="" LastModificationDate="1419787946" Name="ModeleOrienteObjet_Configuration" Objects="47" Symbols="6" Target="MySQL 5.0" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" signature="PDM_DATA_MODEL_XML" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{02BE1E51-58C3-4FCA-A50F-E97FDB5FA773}" Label="" LastModificationDate="1419789555" Name="ModeleOrienteObjet_Configuration" Objects="50" Symbols="6" Target="MySQL 5.0" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" signature="PDM_DATA_MODEL_XML" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -12,10 +12,10 @@
 <a:Code>MODELEORIENTEOBJET_CONFIGURATION</a:Code>
 <a:CreationDate>1419787489</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787860</a:ModificationDate>
+<a:ModificationDate>1419789555</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:History>ORG {4E101198-B68C-4664-9EF2-523EB34F3A53}
-DAT 1419787860</a:History>
+DAT 1419789555</a:History>
 <a:PackageOptionsText>[FolderOptions]
 
 [FolderOptions\Physical Objects]
@@ -1148,9 +1148,9 @@ PhysOpts=</a:ModelOptionsText>
 <a:ObjectID>4F7156AE-C33B-41E9-AEF3-DB5DBA41DF28</a:ObjectID>
 <a:Name>ModeleOrienteObjet_Configuration</a:Name>
 <a:Code>ModeleOrienteObjet_Configuration</a:Code>
-<a:CreationDate>1419787860</a:CreationDate>
+<a:CreationDate>1419789555</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787860</a:ModificationDate>
+<a:ModificationDate>1419789555</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:TargetStereotype/>
 <a:TargetID>4E101198-B68C-4664-9EF2-523EB34F3A53</a:TargetID>
@@ -1826,7 +1826,7 @@ Shadow=0
 <a:PaperSource>7</a:PaperSource>
 <c:Symbols>
 <o:ReferenceSymbol Id="o6">
-<a:ModificationDate>1419787860</a:ModificationDate>
+<a:ModificationDate>1419789555</a:ModificationDate>
 <a:Rect>((-3469,-5476), (-754,5083))</a:Rect>
 <a:ListOfPoints>((-3469,-5476),(-3469,1117),(-754,1117),(-754,5083))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
@@ -1847,7 +1847,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:TableSymbol Id="o8">
-<a:ModificationDate>1419787860</a:ModificationDate>
+<a:ModificationDate>1419789555</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-5198,4394), (6646,9862))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
@@ -1872,7 +1872,7 @@ LABL 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:TableSymbol>
 <o:TableSymbol Id="o7">
-<a:ModificationDate>1419787860</a:ModificationDate>
+<a:ModificationDate>1419789555</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-16853,-8602), (1865,-2160))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
@@ -1897,7 +1897,7 @@ LABL 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:TableSymbol>
 <o:TableSymbol Id="o12">
-<a:ModificationDate>1419787860</a:ModificationDate>
+<a:ModificationDate>1419789555</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((8246,4397), (20088,9865))</a:Rect>
 <a:LineColor>0</a:LineColor>
@@ -1921,7 +1921,7 @@ LABL 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:TableSymbol>
 <o:TableSymbol Id="o14">
-<a:ModificationDate>1419787944</a:ModificationDate>
+<a:ModificationDate>1419789555</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-23701,8239), (-11859,13707))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
@@ -1946,9 +1946,9 @@ LABL 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:TableSymbol>
 <o:TableSymbol Id="o16">
-<a:ModificationDate>1419787946</a:ModificationDate>
+<a:ModificationDate>1419789555</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-23479,2189), (-15859,6189))</a:Rect>
+<a:Rect>((-24431,2189), (-14907,6189))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16770222</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2296,11 +2296,11 @@ DAT 1419787516</a:History>
 </o:Column>
 <o:Column Id="o38">
 <a:ObjectID>A172B7E7-0967-4A12-AAED-F158F1FABB9E</a:ObjectID>
-<a:Name>Image</a:Name>
-<a:Code>image</a:Code>
+<a:Name>Photo</a:Name>
+<a:Code>photo</a:Code>
 <a:CreationDate>1419787516</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419789555</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:History>ORG {8FDBF649-C527-4D2E-9186-9EAA2FC450E8}
 DAT 1419787516</a:History>
@@ -2472,10 +2472,11 @@ DAT 1419787516</a:History>
 <a:Code>CategogieActivite</a:Code>
 <a:CreationDate>1419787516</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787742</a:ModificationDate>
+<a:ModificationDate>1419788073</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:History>ORG {081E584E-22F4-4E14-9599-000A569D5DEA}
-DAT 1419787516</a:History>
+DAT 1419787516
+ATT PRIK</a:History>
 <a:TotalSavingCurrency/>
 <c:Columns>
 <o:Column Id="o49">
@@ -2484,11 +2485,12 @@ DAT 1419787516</a:History>
 <a:Code>id</a:Code>
 <a:CreationDate>1419787516</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419788073</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:History>ORG {F7A728A1-EFBA-46A8-8AD7-35FF4F2C5B28}
 DAT 1419787516</a:History>
 <a:DataType>int</a:DataType>
+<a:Mandatory>1</a:Mandatory>
 </o:Column>
 <o:Column Id="o50">
 <a:ObjectID>FC0A5B00-12D9-4A31-89F1-4F8072619603</a:ObjectID>
@@ -2504,6 +2506,53 @@ DAT 1419787516</a:History>
 <a:Length>254</a:Length>
 </o:Column>
 </c:Columns>
+<c:Keys>
+<o:Key Id="o51">
+<a:ObjectID>5EF5BC0F-493B-48CF-BAF9-844BE9BB42E3</a:ObjectID>
+<a:Name>Identifiant_1</a:Name>
+<a:Code>Identifiant_1</a:Code>
+<a:CreationDate>1419788071</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419788073</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {D81A87C4-4D50-419D-9138-4DA90B0376BD}
+DAT 1419788071
+INS COLNCOL {F7A728A1-EFBA-46A8-8AD7-35FF4F2C5B28}</a:History>
+<c:Key.Columns>
+<o:Column Ref="o49"/>
+</c:Key.Columns>
+</o:Key>
+</c:Keys>
+<c:Indexes>
+<o:Index Id="o52">
+<a:ObjectID>71B7670F-0C7D-4DD1-B6D3-8A18BC72AD49</a:ObjectID>
+<a:Name>CATEGOGIEACTIVITE_PK</a:Name>
+<a:Code>CATEGOGIEACTIVITE_PK</a:Code>
+<a:CreationDate>1419788071</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419788073</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:Unique>1</a:Unique>
+<c:LinkedObject>
+<o:Key Ref="o51"/>
+</c:LinkedObject>
+<c:IndexColumns>
+<o:IndexColumn Id="o53">
+<a:ObjectID>50E105D2-4046-4549-87EB-06F83B1CC872</a:ObjectID>
+<a:CreationDate>1419788071</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419788073</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Column>
+<o:Column Ref="o49"/>
+</c:Column>
+</o:IndexColumn>
+</c:IndexColumns>
+</o:Index>
+</c:Indexes>
+<c:PrimaryKey>
+<o:Key Ref="o51"/>
+</c:PrimaryKey>
 </o:Table>
 </c:Tables>
 <c:References>
@@ -2532,7 +2581,7 @@ DAT 1419787516</a:History>
 <o:Key Ref="o22"/>
 </c:ParentKey>
 <c:Joins>
-<o:ReferenceJoin Id="o51">
+<o:ReferenceJoin Id="o54">
 <a:ObjectID>41683CCE-E61E-411C-B639-A642ED100CFE</a:ObjectID>
 <a:CreationDate>1419787516</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
@@ -2549,7 +2598,7 @@ DAT 1419787516</a:History>
 </o:Reference>
 </c:References>
 <c:DefaultGroups>
-<o:Group Id="o52">
+<o:Group Id="o55">
 <a:ObjectID>64AF9D85-8878-459E-BAB4-C90C1799E519</a:ObjectID>
 <a:Name>PUBLIC</a:Name>
 <a:Code>PUBLIC</a:Code>
@@ -2560,7 +2609,7 @@ DAT 1419787516</a:History>
 </o:Group>
 </c:DefaultGroups>
 <c:TargetModels>
-<o:TargetModel Id="o53">
+<o:TargetModel Id="o56">
 <a:ObjectID>E6A4C195-8C5D-427E-9FB8-DA7FB95D4EB1</a:ObjectID>
 <a:Name>MySQL 5.0</a:Name>
 <a:Code>MYSQL50</a:Code>
@@ -2575,7 +2624,7 @@ DAT 1419787516</a:History>
 <o:Shortcut Ref="o4"/>
 </c:SessionShortcuts>
 </o:TargetModel>
-<o:TargetModel Id="o54">
+<o:TargetModel Id="o57">
 <a:ObjectID>711488C2-7A71-43F5-857E-8E4A086F39EF</a:ObjectID>
 <a:Name>ModeleOrienteObjet_Configuration</a:Name>
 <a:Code>ModeleOrienteObjet_Configuration</a:Code>

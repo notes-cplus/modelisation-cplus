@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{CCFAF629-841B-4405-869E-3B8ACA319912}" Label="" LastModificationDate="1419789830" Name="ModeleOrienteObjet_Formateur" Objects="17" Symbols="1" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{CCFAF629-841B-4405-869E-3B8ACA319912}" Label="" LastModificationDate="1419791148" Name="ModeleOrienteObjet_Formateur" Objects="17" Symbols="1" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -2817,8 +2817,9 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>MODELEORIENTEOBJET_FORMATEUR</a:Code>
 <a:CreationDate>1419789830</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419789830</a:ModificationDate>
+<a:ModificationDate>1419791148</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
+<a:TargetModelURL>file:///C|/Users/ESSARRAJ/Documents/GitHub/modelisation-cplus/DiagrammesDeClasses/Diagrammes/ModeleOrienteObjet_Formateur.mpd</a:TargetModelURL>
 <a:TargetModelID>AF2D6725-2E4B-4EC2-BC58-A01D884F1ACA</a:TargetModelID>
 <a:TargetModelClassID>CDE44E21-9669-11D1-9914-006097355D9B</a:TargetModelClassID>
 <c:SessionShortcuts>

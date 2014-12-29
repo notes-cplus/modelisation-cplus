@@ -2642,7 +2642,7 @@ Shadow=0</a:DisplayPreferences>
 <o:AssociationSymbol Id="o7">
 <a:CreationDate>1419780970</a:CreationDate>
 <a:ModificationDate>1419789628</a:ModificationDate>
-<a:Rect>((-3469,-5476), (1270,5083))</a:Rect>
+<a:Rect>((-3469,-5476), (1233,5083))</a:Rect>
 <a:ListOfPoints>((-3469,-5476),(-754,-5476),(-754,5083))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>

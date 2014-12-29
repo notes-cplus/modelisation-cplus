@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{790D5369-D7E1-49D2-8FCE-B1E6C3F648BC}" Label="" LastModificationDate="1419789767" Name="ModeleOrienteObjet_Module" Objects="48" Symbols="9" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{790D5369-D7E1-49D2-8FCE-B1E6C3F648BC}" Label="" LastModificationDate="1419789767" Name="ModeleOrienteObjet_Module" Objects="47" Symbols="9" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -2665,7 +2665,7 @@ MULA 0 Arial,8,N</a:FontList>
 <o:AssociationSymbol Id="o11">
 <a:CreationDate>1419780996</a:CreationDate>
 <a:ModificationDate>1419789761</a:ModificationDate>
-<a:Rect>((-19225,-5029), (-1244,6117))</a:Rect>
+<a:Rect>((-19225,-5029), (-1207,6117))</a:Rect>
 <a:ListOfPoints>((-1244,-5029),(-1244,4943),(-19225,4943))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>

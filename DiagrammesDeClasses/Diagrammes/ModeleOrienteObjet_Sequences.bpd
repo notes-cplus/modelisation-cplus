@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{84CD8929-D164-4888-8C52-F50352BB1191}" Label="" LastModificationDate="1419790303" Name="ModeleOrienteObjet_Sequences" Objects="26" Symbols="5" Target="MySQL 5.0" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" signature="PDM_DATA_MODEL_XML" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{84CD8929-D164-4888-8C52-F50352BB1191}" Label="" LastModificationDate="1419847441" Name="ModeleOrienteObjet_Sequences" Objects="26" Symbols="5" Target="MySQL 5.0" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" signature="PDM_DATA_MODEL_XML" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -12,11 +12,10 @@
 <a:Code>MODELEORIENTEOBJET_SEQUENCES</a:Code>
 <a:CreationDate>1419790296</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419790299</a:ModificationDate>
+<a:ModificationDate>1419790379</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:History>ORG {AE1E45AE-7046-454E-AAD3-5EC013DAD1FF}
-DAT 1419790299
-ATT MOPT</a:History>
+DAT 1419790379</a:History>
 <a:PackageOptionsText>[FolderOptions]
 
 [FolderOptions\Physical Objects]
@@ -1149,9 +1148,9 @@ PhysOpts=</a:ModelOptionsText>
 <a:ObjectID>DDE5ED9A-0524-4F60-BF80-57050836D2D6</a:ObjectID>
 <a:Name>ModeleOrienteObjet_Sequences</a:Name>
 <a:Code>ModeleOrienteObjet_Sequences</a:Code>
-<a:CreationDate>1419790299</a:CreationDate>
+<a:CreationDate>1419847441</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419790299</a:ModificationDate>
+<a:ModificationDate>1419847441</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:TargetStereotype/>
 <a:TargetID>AE1E45AE-7046-454E-AAD3-5EC013DAD1FF</a:TargetID>
@@ -1827,7 +1826,7 @@ Shadow=0
 <a:PaperSource>7</a:PaperSource>
 <c:Symbols>
 <o:ReferenceSymbol Id="o6">
-<a:ModificationDate>1419790302</a:ModificationDate>
+<a:ModificationDate>1419790379</a:ModificationDate>
 <a:Rect>((-3790,3562), (7345,9562))</a:Rect>
 <a:ListOfPoints>((-3790,3562),(-3790,9562),(7345,9562))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
@@ -1848,7 +1847,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o10">
-<a:ModificationDate>1419790303</a:ModificationDate>
+<a:ModificationDate>1419790379</a:ModificationDate>
 <a:Rect>((-17475,-1351), (-3640,3449))</a:Rect>
 <a:ListOfPoints>((-3640,3449),(-3640,-1351),(-17475,-1351))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
@@ -1869,7 +1868,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:TableSymbol Id="o8">
-<a:ModificationDate>1419790301</a:ModificationDate>
+<a:ModificationDate>1419790379</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((5449,5980), (21181,12422))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
@@ -1894,7 +1893,7 @@ LABL 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:TableSymbol>
 <o:TableSymbol Id="o11">
-<a:ModificationDate>1419790303</a:ModificationDate>
+<a:ModificationDate>1419790379</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-29605,-6444), (-13745,2546))</a:Rect>
 <a:LineColor>0</a:LineColor>
@@ -1918,7 +1917,7 @@ LABL 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:TableSymbol>
 <o:TableSymbol Id="o7">
-<a:ModificationDate>1419790302</a:ModificationDate>
+<a:ModificationDate>1419790379</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-8785,1562), (1203,5561))</a:Rect>
 <a:LineColor>0</a:LineColor>
@@ -2162,11 +2161,11 @@ DAT 1419790299</a:History>
 <a:Code>Association1</a:Code>
 <a:CreationDate>1419790298</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419790298</a:ModificationDate>
+<a:ModificationDate>1419790379</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:History>ORG {6F7C901F-31CB-4547-A09E-972B02ED2E1C}
 DAT 1419790299</a:History>
-<a:Cardinality>0..*</a:Cardinality>
+<a:Cardinality>1..*</a:Cardinality>
 <a:UpdateConstraint>1</a:UpdateConstraint>
 <a:DeleteConstraint>1</a:DeleteConstraint>
 <a:ExtendedAttributesText>{48DE8DAA-F163-416B-ACAA-3F3ABD6F9EE9},C# 2,154={B30A1960-E74E-41E5-88BC-74AF259F1A68},roleAContainer,6=&lt;None&gt;
@@ -2186,11 +2185,11 @@ DAT 1419790299</a:History>
 <a:Code>Association1</a:Code>
 <a:CreationDate>1419790298</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419790298</a:ModificationDate>
+<a:ModificationDate>1419790379</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:History>ORG {6F7C901F-31CB-4547-A09E-972B02ED2E1C}
 DAT 1419790299</a:History>
-<a:Cardinality>0..*</a:Cardinality>
+<a:Cardinality>1..*</a:Cardinality>
 <a:UpdateConstraint>1</a:UpdateConstraint>
 <a:DeleteConstraint>1</a:DeleteConstraint>
 <a:ExtendedAttributesText>{48DE8DAA-F163-416B-ACAA-3F3ABD6F9EE9},C# 2,154={B30A1960-E74E-41E5-88BC-74AF259F1A68},roleAContainer,6=&lt;None&gt;
@@ -2241,7 +2240,7 @@ DAT 1419790299</a:History>
 <a:Code>MYSQL50</a:Code>
 <a:CreationDate>1419790297</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419790297</a:ModificationDate>
+<a:ModificationDate>1419847171</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:TargetModelURL>file:///%_DBMS%/mysql50.xdb</a:TargetModelURL>
 <a:TargetModelID>F4F16ECD-F2F1-4006-AF6F-638D5C65F35E</a:TargetModelID>

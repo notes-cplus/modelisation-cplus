@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{02BE1E51-58C3-4FCA-A50F-E97FDB5FA773}" Label="" LastModificationDate="1419847059" Name="ModeleOrienteObjet_Configuration" Objects="50" Symbols="6" Target="MySQL 5.0" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" signature="PDM_DATA_MODEL_XML" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{663E06C9-1F99-44D0-9353-4BA65265F6AF}" Label="" LastModificationDate="1419848000" Name="ModeleOrienteObjet_Prevision" Objects="78" Symbols="17" Target="MySQL 5.0" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" signature="PDM_DATA_MODEL_XML" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -7,15 +7,16 @@
 <o:RootObject Id="o1">
 <c:Children>
 <o:Model Id="o2">
-<a:ObjectID>02BE1E51-58C3-4FCA-A50F-E97FDB5FA773</a:ObjectID>
-<a:Name>ModeleOrienteObjet_Configuration</a:Name>
-<a:Code>MODELEORIENTEOBJET_CONFIGURATION</a:Code>
-<a:CreationDate>1419787489</a:CreationDate>
+<a:ObjectID>663E06C9-1F99-44D0-9353-4BA65265F6AF</a:ObjectID>
+<a:Name>ModeleOrienteObjet_Prevision</a:Name>
+<a:Code>MODELEORIENTEOBJET_PREVISION</a:Code>
+<a:CreationDate>1419791231</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419789555</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {4E101198-B68C-4664-9EF2-523EB34F3A53}
-DAT 1419789555</a:History>
+<a:History>ORG {731BE618-FD25-4056-A1BB-8EE94E30F1FE}
+DAT 1419791235
+ATT MOPT</a:History>
 <a:PackageOptionsText>[FolderOptions]
 
 [FolderOptions\Physical Objects]
@@ -1145,26 +1146,26 @@ PhysOpts=
 PhysOpts=</a:ModelOptionsText>
 <c:GenerationOrigins>
 <o:Shortcut Id="o3">
-<a:ObjectID>4F7156AE-C33B-41E9-AEF3-DB5DBA41DF28</a:ObjectID>
-<a:Name>ModeleOrienteObjet_Configuration</a:Name>
-<a:Code>ModeleOrienteObjet_Configuration</a:Code>
-<a:CreationDate>1419847059</a:CreationDate>
+<a:ObjectID>0B8CC9DB-4ABA-4E4E-BF69-FC059C3E45BC</a:ObjectID>
+<a:Name>ModeleOrienteObjet_Prevision</a:Name>
+<a:Code>ModeleOrienteObjet_Prevision</a:Code>
+<a:CreationDate>1419847922</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419847059</a:ModificationDate>
+<a:ModificationDate>1419847922</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:TargetStereotype/>
-<a:TargetID>4E101198-B68C-4664-9EF2-523EB34F3A53</a:TargetID>
+<a:TargetID>731BE618-FD25-4056-A1BB-8EE94E30F1FE</a:TargetID>
 <a:TargetClassID>18112060-1A4B-11D1-83D9-444553540000</a:TargetClassID>
 </o:Shortcut>
 </c:GenerationOrigins>
 <c:DBMS>
 <o:Shortcut Id="o4">
-<a:ObjectID>129ACC49-E874-4B74-BAC2-25ADBBB0E4A3</a:ObjectID>
+<a:ObjectID>CDD0DFF6-6DF5-4BFB-87D9-C5A3C1053A38</a:ObjectID>
 <a:Name>MySQL 5.0</a:Name>
 <a:Code>MYSQL50</a:Code>
-<a:CreationDate>1419787489</a:CreationDate>
+<a:CreationDate>1419791232</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787489</a:ModificationDate>
+<a:ModificationDate>1419791232</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:TargetStereotype/>
 <a:TargetID>F4F16ECD-F2F1-4006-AF6F-638D5C65F35E</a:TargetID>
@@ -1173,15 +1174,15 @@ PhysOpts=</a:ModelOptionsText>
 </c:DBMS>
 <c:PhysicalDiagrams>
 <o:PhysicalDiagram Id="o5">
-<a:ObjectID>B40032E4-B495-4C37-9AF2-7637AA2B5730</a:ObjectID>
-<a:Name>DiagrammeClasses_Configuration</a:Name>
-<a:Code>DiagrammeClasses_Configuration</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:ObjectID>1755513D-8B09-4D45-B4E5-396F4F35C540</a:ObjectID>
+<a:Name>DiagrammeClasses_Prevision</a:Name>
+<a:Code>DiagrammeClasses_Prevision</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {0D634A33-0B02-4088-A101-18C764EE5778}
-DAT 1419787516</a:History>
+<a:History>ORG {6C1D0617-1D50-44DF-BA2E-6B7E2102D19B}
+DAT 1419791235</a:History>
 <a:DisplayPreferences>[DisplayPreferences]
 
 [DisplayPreferences\PDM]
@@ -1826,12 +1827,11 @@ Shadow=0
 <a:PaperSource>7</a:PaperSource>
 <c:Symbols>
 <o:ReferenceSymbol Id="o6">
-<a:ModificationDate>1419789555</a:ModificationDate>
-<a:Rect>((-3469,-5476), (-754,5083))</a:Rect>
-<a:ListOfPoints>((-3469,-5476),(-3469,1117),(-754,1117),(-754,5083))</a:ListOfPoints>
+<a:Rect>((-7774,-8432), (-7324,733))</a:Rect>
+<a:ListOfPoints>((-7549,-8432),(-7549,733))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
-<a:LineColor>16744448</a:LineColor>
+<a:LineColor>0</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>CENTER 0 Arial,8,N
 SOURCE 0 Arial,8,N
@@ -1846,10 +1846,153 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:Reference Ref="o9"/>
 </c:Object>
 </o:ReferenceSymbol>
+<o:ReferenceSymbol Id="o10">
+<a:Rect>((-7399,-8582), (9780,-8132))</a:Rect>
+<a:ListOfPoints>((-7399,-8357),(9780,-8357))</a:ListOfPoints>
+<a:CornerStyle>1</a:CornerStyle>
+<a:ArrowStyle>1</a:ArrowStyle>
+<a:LineColor>0</a:LineColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>CENTER 0 Arial,8,N
+SOURCE 0 Arial,8,N
+DESTINATION 0 Arial,8,N</a:FontList>
+<c:SourceSymbol>
+<o:TableSymbol Ref="o7"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:TableSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Reference Ref="o12"/>
+</c:Object>
+</o:ReferenceSymbol>
+<o:ReferenceSymbol Id="o13">
+<a:Rect>((-2999,-16875), (16500,-9450))</a:Rect>
+<a:ListOfPoints>((16500,-9450),(16500,-16875),(-2999,-16875))</a:ListOfPoints>
+<a:CornerStyle>1</a:CornerStyle>
+<a:ArrowStyle>1</a:ArrowStyle>
+<a:LineColor>0</a:LineColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>CENTER 0 Arial,8,N
+SOURCE 0 Arial,8,N
+DESTINATION 0 Arial,8,N</a:FontList>
+<c:SourceSymbol>
+<o:TableSymbol Ref="o11"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:TableSymbol Ref="o14"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Reference Ref="o15"/>
+</c:Object>
+</o:ReferenceSymbol>
+<o:ReferenceSymbol Id="o16">
+<a:ModificationDate>1419791241</a:ModificationDate>
+<a:Rect>((20400,-15402), (23700,1050))</a:Rect>
+<a:ListOfPoints>((20400,-7479),(20400,-15402),(23700,-15402),(23700,1050))</a:ListOfPoints>
+<a:CornerStyle>1</a:CornerStyle>
+<a:ArrowStyle>1</a:ArrowStyle>
+<a:LineColor>0</a:LineColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>CENTER 0 Arial,8,N
+SOURCE 0 Arial,8,N
+DESTINATION 0 Arial,8,N</a:FontList>
+<c:SourceSymbol>
+<o:TableSymbol Ref="o11"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:TableSymbol Ref="o17"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Reference Ref="o18"/>
+</c:Object>
+</o:ReferenceSymbol>
+<o:ReferenceSymbol Id="o19">
+<a:Rect>((-21900,-2900), (-6800,-2450))</a:Rect>
+<a:ListOfPoints>((-6800,-2675),(-21900,-2675))</a:ListOfPoints>
+<a:CornerStyle>1</a:CornerStyle>
+<a:ArrowStyle>1</a:ArrowStyle>
+<a:LineColor>0</a:LineColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>CENTER 0 Arial,8,N
+SOURCE 0 Arial,8,N
+DESTINATION 0 Arial,8,N</a:FontList>
+<c:SourceSymbol>
+<o:TableSymbol Ref="o8"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:TableSymbol Ref="o20"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Reference Ref="o21"/>
+</c:Object>
+</o:ReferenceSymbol>
+<o:ReferenceSymbol Id="o22">
+<a:ModificationDate>1419791239</a:ModificationDate>
+<a:Rect>((-7512,1123), (-7062,9780))</a:Rect>
+<a:ListOfPoints>((-7287,9780),(-7287,1123))</a:ListOfPoints>
+<a:CornerStyle>1</a:CornerStyle>
+<a:ArrowStyle>1</a:ArrowStyle>
+<a:LineColor>0</a:LineColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>CENTER 0 Arial,8,N
+SOURCE 0 Arial,8,N
+DESTINATION 0 Arial,8,N</a:FontList>
+<c:SourceSymbol>
+<o:TableSymbol Ref="o23"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:TableSymbol Ref="o8"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Reference Ref="o24"/>
+</c:Object>
+</o:ReferenceSymbol>
+<o:ReferenceSymbol Id="o25">
+<a:ModificationDate>1419847998</a:ModificationDate>
+<a:Rect>((-21750,10267), (-7625,14167))</a:Rect>
+<a:ListOfPoints>((-7625,10267),(-7625,14167),(-21750,14167))</a:ListOfPoints>
+<a:CornerStyle>1</a:CornerStyle>
+<a:ArrowStyle>1</a:ArrowStyle>
+<a:LineColor>0</a:LineColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>CENTER 0 Arial,8,N
+SOURCE 0 Arial,8,N
+DESTINATION 0 Arial,8,N</a:FontList>
+<c:SourceSymbol>
+<o:TableSymbol Ref="o23"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:TableSymbol Ref="o26"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Reference Ref="o27"/>
+</c:Object>
+</o:ReferenceSymbol>
+<o:ReferenceSymbol Id="o28">
+<a:ModificationDate>1419848000</a:ModificationDate>
+<a:Rect>((-1054,-145), (7650,9487))</a:Rect>
+<a:ListOfPoints>((-1054,-145),(7650,-145),(7650,9487))</a:ListOfPoints>
+<a:CornerStyle>1</a:CornerStyle>
+<a:ArrowStyle>1</a:ArrowStyle>
+<a:LineColor>0</a:LineColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>CENTER 0 Arial,8,N
+SOURCE 0 Arial,8,N
+DESTINATION 0 Arial,8,N</a:FontList>
+<c:SourceSymbol>
+<o:TableSymbol Ref="o8"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:TableSymbol Ref="o29"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Reference Ref="o30"/>
+</c:Object>
+</o:ReferenceSymbol>
 <o:TableSymbol Id="o8">
-<a:ModificationDate>1419789555</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-5198,4394), (6646,9862))</a:Rect>
+<a:Rect>((-14201,-4776), (4749,2640))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
 <a:LineColor>0</a:LineColor>
 <a:FillColor>16777215</a:FillColor>
@@ -1868,13 +2011,12 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <c:Object>
-<o:Table Ref="o10"/>
+<o:Table Ref="o31"/>
 </c:Object>
 </o:TableSymbol>
-<o:TableSymbol Id="o7">
-<a:ModificationDate>1419789555</a:ModificationDate>
+<o:TableSymbol Id="o11">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-16853,-8602), (1865,-2160))</a:Rect>
+<a:Rect>((5438,-12015), (21992,-4599))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
 <a:LineColor>0</a:LineColor>
 <a:FillColor>16777215</a:FillColor>
@@ -1893,38 +2035,13 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <c:Object>
-<o:Table Ref="o11"/>
-</c:Object>
-</o:TableSymbol>
-<o:TableSymbol Id="o12">
-<a:ModificationDate>1419789555</a:ModificationDate>
-<a:IconMode>-1</a:IconMode>
-<a:Rect>((8246,4397), (20088,9865))</a:Rect>
-<a:LineColor>0</a:LineColor>
-<a:FillColor>16777215</a:FillColor>
-<a:ShadowColor>12632256</a:ShadowColor>
-<a:FontList>STRN 0 Arial,8,N
-DISPNAME 0 Arial,8,N
-OWNRDISPNAME 0 Arial,8,N
-Columns 0 Arial,8,N
-TablePkColumns 0 Arial,8,U
-TableFkColumns 0 Arial,8,N
-Keys 0 Arial,8,N
-Indexes 0 Arial,8,N
-Triggers 0 Arial,8,N
-LABL 0 Arial,8,N</a:FontList>
-<a:BrushStyle>6</a:BrushStyle>
-<a:GradientFillMode>65</a:GradientFillMode>
-<a:GradientEndColor>16777215</a:GradientEndColor>
-<c:Object>
-<o:Table Ref="o13"/>
+<o:Table Ref="o32"/>
 </c:Object>
 </o:TableSymbol>
 <o:TableSymbol Id="o14">
-<a:ModificationDate>1419789555</a:ModificationDate>
+<a:ModificationDate>1419847920</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-23701,8239), (-11859,13707))</a:Rect>
-<a:AutoAdjustToText>0</a:AutoAdjustToText>
+<a:Rect>((-14211,-20096), (262,-13052))</a:Rect>
 <a:LineColor>0</a:LineColor>
 <a:FillColor>16777215</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1942,15 +2059,15 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <c:Object>
-<o:Table Ref="o15"/>
+<o:Shortcut Ref="o33"/>
 </c:Object>
 </o:TableSymbol>
-<o:TableSymbol Id="o16">
-<a:ModificationDate>1419789555</a:ModificationDate>
+<o:TableSymbol Id="o17">
+<a:ModificationDate>1419847920</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-24431,2189), (-14907,6189))</a:Rect>
-<a:LineColor>16744448</a:LineColor>
-<a:FillColor>16770222</a:FillColor>
+<a:Rect>((16763,377), (31236,5473))</a:Rect>
+<a:LineColor>0</a:LineColor>
+<a:FillColor>16777215</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>STRN 0 Arial,8,N
 DISPNAME 0 Arial,8,N
@@ -1966,7 +2083,127 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <c:Object>
-<o:Table Ref="o17"/>
+<o:Shortcut Ref="o34"/>
+</c:Object>
+</o:TableSymbol>
+<o:TableSymbol Id="o20">
+<a:ModificationDate>1419847920</a:ModificationDate>
+<a:IconMode>-1</a:IconMode>
+<a:Rect>((-31911,-7196), (-17438,-152))</a:Rect>
+<a:LineColor>0</a:LineColor>
+<a:FillColor>16777215</a:FillColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>STRN 0 Arial,8,N
+DISPNAME 0 Arial,8,N
+OWNRDISPNAME 0 Arial,8,N
+Columns 0 Arial,8,N
+TablePkColumns 0 Arial,8,U
+TableFkColumns 0 Arial,8,N
+Keys 0 Arial,8,N
+Indexes 0 Arial,8,N
+Triggers 0 Arial,8,N
+LABL 0 Arial,8,N</a:FontList>
+<a:BrushStyle>6</a:BrushStyle>
+<a:GradientFillMode>65</a:GradientFillMode>
+<a:GradientEndColor>16777215</a:GradientEndColor>
+<c:Object>
+<o:Shortcut Ref="o35"/>
+</c:Object>
+</o:TableSymbol>
+<o:TableSymbol Id="o26">
+<a:ModificationDate>1419847998</a:ModificationDate>
+<a:IconMode>-1</a:IconMode>
+<a:Rect>((-30561,10955), (-18188,19945))</a:Rect>
+<a:LineColor>0</a:LineColor>
+<a:FillColor>16777215</a:FillColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>STRN 0 Arial,8,N
+DISPNAME 0 Arial,8,N
+OWNRDISPNAME 0 Arial,8,N
+Columns 0 Arial,8,N
+TablePkColumns 0 Arial,8,U
+TableFkColumns 0 Arial,8,N
+Keys 0 Arial,8,N
+Indexes 0 Arial,8,N
+Triggers 0 Arial,8,N
+LABL 0 Arial,8,N</a:FontList>
+<a:BrushStyle>6</a:BrushStyle>
+<a:GradientFillMode>65</a:GradientFillMode>
+<a:GradientEndColor>16777215</a:GradientEndColor>
+<c:Object>
+<o:Shortcut Ref="o36"/>
+</c:Object>
+</o:TableSymbol>
+<o:TableSymbol Id="o29">
+<a:ModificationDate>1419848000</a:ModificationDate>
+<a:IconMode>-1</a:IconMode>
+<a:Rect>((2259,7728), (17990,15746))</a:Rect>
+<a:LineColor>0</a:LineColor>
+<a:FillColor>16777215</a:FillColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>STRN 0 Arial,8,N
+DISPNAME 0 Arial,8,N
+OWNRDISPNAME 0 Arial,8,N
+Columns 0 Arial,8,N
+TablePkColumns 0 Arial,8,U
+TableFkColumns 0 Arial,8,N
+Keys 0 Arial,8,N
+Indexes 0 Arial,8,N
+Triggers 0 Arial,8,N
+LABL 0 Arial,8,N</a:FontList>
+<a:BrushStyle>6</a:BrushStyle>
+<a:GradientFillMode>65</a:GradientFillMode>
+<a:GradientEndColor>16777215</a:GradientEndColor>
+<c:Object>
+<o:Shortcut Ref="o37"/>
+</c:Object>
+</o:TableSymbol>
+<o:TableSymbol Id="o7">
+<a:ModificationDate>1419847920</a:ModificationDate>
+<a:IconMode>-1</a:IconMode>
+<a:Rect>((-13935,-10431), (-1166,-6432))</a:Rect>
+<a:LineColor>0</a:LineColor>
+<a:FillColor>16570034</a:FillColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>STRN 0 Arial,8,N
+DISPNAME 0 Arial,8,N
+OWNRDISPNAME 0 Arial,8,N
+Columns 0 Arial,8,N
+TablePkColumns 0 Arial,8,U
+TableFkColumns 0 Arial,8,N
+Keys 0 Arial,8,N
+Indexes 0 Arial,8,N
+Triggers 0 Arial,8,N
+LABL 0 Arial,8,N</a:FontList>
+<a:BrushStyle>6</a:BrushStyle>
+<a:GradientFillMode>65</a:GradientFillMode>
+<a:GradientEndColor>16777215</a:GradientEndColor>
+<c:Object>
+<o:Table Ref="o38"/>
+</c:Object>
+</o:TableSymbol>
+<o:TableSymbol Id="o23">
+<a:ModificationDate>1419847920</a:ModificationDate>
+<a:IconMode>-1</a:IconMode>
+<a:Rect>((-14547,7780), (-1006,11779))</a:Rect>
+<a:LineColor>0</a:LineColor>
+<a:FillColor>16570034</a:FillColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>STRN 0 Arial,8,N
+DISPNAME 0 Arial,8,N
+OWNRDISPNAME 0 Arial,8,N
+Columns 0 Arial,8,N
+TablePkColumns 0 Arial,8,U
+TableFkColumns 0 Arial,8,N
+Keys 0 Arial,8,N
+Indexes 0 Arial,8,N
+Triggers 0 Arial,8,N
+LABL 0 Arial,8,N</a:FontList>
+<a:BrushStyle>6</a:BrushStyle>
+<a:GradientFillMode>65</a:GradientFillMode>
+<a:GradientEndColor>16777215</a:GradientEndColor>
+<c:Object>
+<o:Table Ref="o39"/>
 </c:Object>
 </o:TableSymbol>
 </c:Symbols>
@@ -1976,473 +2213,117 @@ LABL 0 Arial,8,N</a:FontList>
 <o:PhysicalDiagram Ref="o5"/>
 </c:DefaultDiagram>
 <c:Tables>
-<o:Table Id="o10">
-<a:ObjectID>C3BC309E-DB22-41E4-8E0B-BB9674B25AAE</a:ObjectID>
-<a:Name>CatégogiesSalleFormation</a:Name>
-<a:Code>CategogiesSalleFormation</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<o:Table Id="o31">
+<a:ObjectID>C5E48C12-AC1B-4DCC-8DE2-2CF048F683C1</a:ObjectID>
+<a:Name>PrévisionSéance</a:Name>
+<a:Code>PrevisionSeance</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787742</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {390184ED-992A-40D9-A39A-05F6D34DCB5F}
-DAT 1419787516
-ATT CKCN</a:History>
-<a:CheckConstraintName>TK_%TABLE%sCategogiesSalleForm</a:CheckConstraintName>
+<a:History>ORG {121BE29E-3B21-47EA-919D-01A4998283E3}
+DAT 1419791235</a:History>
 <a:TotalSavingCurrency/>
 <c:Columns>
-<o:Column Id="o18">
-<a:ObjectID>F504946F-2030-48E0-9ED5-17F97DD18282</a:ObjectID>
+<o:Column Id="o40">
+<a:ObjectID>3EDEA595-E7B4-4850-8382-76AF4D9743EA</a:ObjectID>
 <a:Name>Id</a:Name>
-<a:Code>id</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:Code>Id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {9FEF3D3B-4C0A-405A-8EF4-D0C79DF89DB6}
-DAT 1419787516</a:History>
+<a:History>ORG {A512CE8E-8982-482F-B0E5-3F452D1A7F1A}
+DAT 1419791235</a:History>
 <a:DataType>int</a:DataType>
 <a:Mandatory>1</a:Mandatory>
 </o:Column>
-<o:Column Id="o19">
-<a:ObjectID>FEDBA2FF-A293-429A-84D7-10CBFDBF77B4</a:ObjectID>
-<a:Name>Nom</a:Name>
-<a:Code>nom</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {D58F2E1F-2DEC-459F-AD2E-6A7EE370AF44}
-DAT 1419787516</a:History>
-<a:DataType>varchar(254)</a:DataType>
-<a:Length>254</a:Length>
-</o:Column>
-<o:Column Id="o20">
-<a:ObjectID>D8E6E3FC-C3AD-4FA9-BBAF-752082D875A6</a:ObjectID>
-<a:Name>Code</a:Name>
-<a:Code>code</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787860</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {1E5A0130-E5CC-42B9-883B-485545B6B523}
-DAT 1419787516</a:History>
-<a:DataType>varchar(254)</a:DataType>
-<a:Length>254</a:Length>
-</o:Column>
-<o:Column Id="o21">
-<a:ObjectID>B26C033D-DF90-4D62-8261-485952249C0B</a:ObjectID>
-<a:Name>Description</a:Name>
-<a:Code>description</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {954A34E4-A4C3-4462-80C3-6DC3A097EC90}
-DAT 1419787516</a:History>
-<a:DataType>varchar(254)</a:DataType>
-<a:Length>254</a:Length>
-</o:Column>
-</c:Columns>
-<c:Keys>
-<o:Key Id="o22">
-<a:ObjectID>C0C80EA5-DB92-4323-AC41-1D9E379663E8</a:ObjectID>
-<a:Name>Identifiant_1</a:Name>
-<a:Code>Identifiant_1</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787703</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {4DE310B1-13A9-46CF-A38F-D8EEDA3D547F}
-DAT 1419787516
-ATT CNST</a:History>
-<a:ConstraintName>PK_%TABLE%sCategogiesSalleForm</a:ConstraintName>
-<c:Key.Columns>
-<o:Column Ref="o18"/>
-</c:Key.Columns>
-</o:Key>
-</c:Keys>
-<c:Indexes>
-<o:Index Id="o23">
-<a:ObjectID>E286B089-DFA0-4615-B6E6-669728302D25</a:ObjectID>
-<a:Name>SCATEGOGIESSALLEFORMATION_PK</a:Name>
-<a:Code>SCATEGOGIESSALLEFORMATION_PK</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:Unique>1</a:Unique>
-<c:LinkedObject>
-<o:Key Ref="o22"/>
-</c:LinkedObject>
-<c:IndexColumns>
-<o:IndexColumn Id="o24">
-<a:ObjectID>E997AF64-3632-42A4-BF65-B6243534CE92</a:ObjectID>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<c:Column>
-<o:Column Ref="o18"/>
-</c:Column>
-</o:IndexColumn>
-</c:IndexColumns>
-</o:Index>
-</c:Indexes>
-<c:PrimaryKey>
-<o:Key Ref="o22"/>
-</c:PrimaryKey>
-</o:Table>
-<o:Table Id="o11">
-<a:ObjectID>FC7A25C8-DFBA-4360-B20D-225DA4939BBB</a:ObjectID>
-<a:Name>Salle</a:Name>
-<a:Code>Salle</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787742</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {B19F2A95-C20B-4E8C-9A7A-9283FB4860D6}
-DAT 1419787516</a:History>
-<a:TotalSavingCurrency/>
-<c:Columns>
-<o:Column Id="o25">
-<a:ObjectID>E4B40AFB-F839-4022-B23F-01DA1A23302F</a:ObjectID>
-<a:Name>Id</a:Name>
-<a:Code>id</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {9F804767-DCD9-40F9-9443-4ADE00C69C14}
-DAT 1419787516</a:History>
-<a:DataType>int</a:DataType>
-<a:Mandatory>1</a:Mandatory>
-</o:Column>
-<o:Column Id="o26">
-<a:ObjectID>7F6808C8-6F73-404E-AD4B-75A706A48AD3</a:ObjectID>
+<o:Column Id="o41">
+<a:ObjectID>7406A957-7600-4FB5-93E3-F30A1959D5D6</a:ObjectID>
 <a:Name>CatégogiesSalleFormation_Id</a:Name>
 <a:Code>CategogiesSalleFormation_id</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787742</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {9FEF3D3B-4C0A-405A-8EF4-D0C79DF89DB6},{905D711D-3A51-495A-A094-395C8846731C}
-DAT 1419787516
-ATT CKCN</a:History>
-<a:DataType>int</a:DataType>
-<a:Mandatory>1</a:Mandatory>
-<a:CheckConstraintName>CK_%TABLE%sCategogiesSalleForm</a:CheckConstraintName>
-</o:Column>
-<o:Column Id="o27">
-<a:ObjectID>2532B956-4EF5-4250-87A1-9EC3EDDC7F6F</a:ObjectID>
-<a:Name>Nom</a:Name>
-<a:Code>nom</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {EF707A74-C959-47ED-AC72-4AC96C490DC3}
-DAT 1419787516</a:History>
-<a:DataType>varchar(254)</a:DataType>
-<a:Length>254</a:Length>
-</o:Column>
-<o:Column Id="o28">
-<a:ObjectID>FC358A1A-18C0-4511-A38A-CF9E0FAF0DC3</a:ObjectID>
-<a:Name>Code</a:Name>
-<a:Code>code</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787860</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {28695FE3-3906-4D72-88D1-9178B645A876}
-DAT 1419787516</a:History>
-<a:DataType>varchar(254)</a:DataType>
-<a:Length>254</a:Length>
-</o:Column>
-<o:Column Id="o29">
-<a:ObjectID>1C388AB7-59A2-4ADB-88EB-347E5C62307E</a:ObjectID>
-<a:Name>Description</a:Name>
-<a:Code>description</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {73415BB8-36E8-4049-8C3F-7965C2F36CEB}
-DAT 1419787516</a:History>
-<a:DataType>varchar(254)</a:DataType>
-<a:Length>254</a:Length>
-</o:Column>
-</c:Columns>
-<c:Keys>
-<o:Key Id="o30">
-<a:ObjectID>8F33459B-78AE-4845-9EE4-DEA71FFB019C</a:ObjectID>
-<a:Name>Identifiant_1</a:Name>
-<a:Code>Identifiant_1</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {B14F19F5-BBAF-435A-8149-23B88CD5C92F}
-DAT 1419787516</a:History>
-<c:Key.Columns>
-<o:Column Ref="o25"/>
-</c:Key.Columns>
-</o:Key>
-</c:Keys>
-<c:Indexes>
-<o:Index Id="o31">
-<a:ObjectID>F856C783-B944-4749-B8DB-A1793B78F988</a:ObjectID>
-<a:Name>SSALLE_PK</a:Name>
-<a:Code>SSALLE_PK</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:Unique>1</a:Unique>
-<c:LinkedObject>
-<o:Key Ref="o30"/>
-</c:LinkedObject>
-<c:IndexColumns>
-<o:IndexColumn Id="o32">
-<a:ObjectID>9B15ED12-68DA-44E9-A567-734B6598ABD3</a:ObjectID>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<c:Column>
-<o:Column Ref="o25"/>
-</c:Column>
-</o:IndexColumn>
-</c:IndexColumns>
-</o:Index>
-<o:Index Id="o33">
-<a:ObjectID>385916D8-ECFE-46CF-8B30-9284B9503639</a:ObjectID>
-<a:Name>ASSOCIATION1_FK</a:Name>
-<a:Code>ASSOCIATION1_FK</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<c:LinkedObject>
-<o:Reference Ref="o9"/>
-</c:LinkedObject>
-<c:IndexColumns>
-<o:IndexColumn Id="o34">
-<a:ObjectID>A9CFD9D6-FE57-4EB5-AEB3-DAE3EC905233</a:ObjectID>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<c:Column>
-<o:Column Ref="o26"/>
-</c:Column>
-</o:IndexColumn>
-</c:IndexColumns>
-</o:Index>
-</c:Indexes>
-<c:PrimaryKey>
-<o:Key Ref="o30"/>
-</c:PrimaryKey>
-</o:Table>
-<o:Table Id="o13">
-<a:ObjectID>42ED6EC4-FEB4-4BC8-86FB-E7AF8CE6FC92</a:ObjectID>
-<a:Name>StratégiePédagogie</a:Name>
-<a:Code>StrategiePedagogie</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787742</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {761D458A-E0AC-4E66-8A04-254BE1F08B7C}
-DAT 1419787516</a:History>
-<a:TotalSavingCurrency/>
-<c:Columns>
-<o:Column Id="o35">
-<a:ObjectID>A50BB720-9520-4E53-A3C8-FB1FE61744A3</a:ObjectID>
-<a:Name>Id</a:Name>
-<a:Code>id</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {C7375CBB-BE64-4D04-ACE1-B8ECF4A1FEBC}
-DAT 1419787516</a:History>
 <a:DataType>int</a:DataType>
 <a:Mandatory>1</a:Mandatory>
 </o:Column>
-<o:Column Id="o36">
-<a:ObjectID>EB5C09B2-F72C-46BB-B3DD-FAD69BEE6221</a:ObjectID>
+<o:Column Id="o42">
+<a:ObjectID>7510574F-CFE7-41E2-9ADC-382DDEB9C257</a:ObjectID>
 <a:Name>Titre</a:Name>
 <a:Code>titre</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {E61FD677-63E0-4D15-82A4-6A6E6616C68C}
-DAT 1419787516</a:History>
+<a:History>ORG {EECC9F53-E236-4C4E-949A-14FD4A8687D0}
+DAT 1419791235</a:History>
 <a:DataType>varchar(254)</a:DataType>
 <a:Length>254</a:Length>
-</o:Column>
-<o:Column Id="o37">
-<a:ObjectID>48785AD8-B745-49E5-B692-D43203FD7D03</a:ObjectID>
-<a:Name>Description</a:Name>
-<a:Code>description</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {EC934CFB-07CC-42C8-AB40-0AFF6B14F427}
-DAT 1419787516</a:History>
-<a:DataType>varchar(254)</a:DataType>
-<a:Length>254</a:Length>
-</o:Column>
-<o:Column Id="o38">
-<a:ObjectID>A172B7E7-0967-4A12-AAED-F158F1FABB9E</a:ObjectID>
-<a:Name>Photo</a:Name>
-<a:Code>photo</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419789555</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {8FDBF649-C527-4D2E-9186-9EAA2FC450E8}
-DAT 1419787516</a:History>
-<a:DataType>varchar(254)</a:DataType>
-<a:Length>254</a:Length>
-</o:Column>
-</c:Columns>
-<c:Keys>
-<o:Key Id="o39">
-<a:ObjectID>20A2AC7C-1D69-416C-98BF-17739B1C3AD0</a:ObjectID>
-<a:Name>Identifiant_1</a:Name>
-<a:Code>Identifiant_1</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {847B8137-29D8-4B74-B284-7047438C6B16}
-DAT 1419787516</a:History>
-<c:Key.Columns>
-<o:Column Ref="o35"/>
-</c:Key.Columns>
-</o:Key>
-</c:Keys>
-<c:Indexes>
-<o:Index Id="o40">
-<a:ObjectID>E7A82790-51F9-4551-B5FE-0F9D74E2CB86</a:ObjectID>
-<a:Name>SSTRATEGIEPEDAGOGIE_PK</a:Name>
-<a:Code>SSTRATEGIEPEDAGOGIE_PK</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:Unique>1</a:Unique>
-<c:LinkedObject>
-<o:Key Ref="o39"/>
-</c:LinkedObject>
-<c:IndexColumns>
-<o:IndexColumn Id="o41">
-<a:ObjectID>4E06DD8C-4610-422D-AEE4-970FD0E7DA73</a:ObjectID>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<c:Column>
-<o:Column Ref="o35"/>
-</c:Column>
-</o:IndexColumn>
-</c:IndexColumns>
-</o:Index>
-</c:Indexes>
-<c:PrimaryKey>
-<o:Key Ref="o39"/>
-</c:PrimaryKey>
-</o:Table>
-<o:Table Id="o15">
-<a:ObjectID>20B38467-F323-4FBC-BF41-B5298A161561</a:ObjectID>
-<a:Name>NiveauCompetence</a:Name>
-<a:Code>NiveauCompetence</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787742</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {7258EF96-A1BA-4A43-9C25-93A8A8763C68}
-DAT 1419787516</a:History>
-<a:TotalSavingCurrency/>
-<c:Columns>
-<o:Column Id="o42">
-<a:ObjectID>684A26FF-57B7-4B32-A0B6-E46A56B3B7E3</a:ObjectID>
-<a:Name>Id</a:Name>
-<a:Code>id</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
-<a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {A6F1828D-337C-4AC6-AB75-38EB2D63B1B2}
-DAT 1419787516</a:History>
-<a:DataType>int</a:DataType>
-<a:Mandatory>1</a:Mandatory>
 </o:Column>
 <o:Column Id="o43">
-<a:ObjectID>F821AB80-F8CA-48EB-88A7-EA4B878C00AB</a:ObjectID>
-<a:Name>Nom</a:Name>
-<a:Code>nom</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:ObjectID>FF3291A6-BFE5-40C0-A343-7D926DAD8050</a:ObjectID>
+<a:Name>Objectif</a:Name>
+<a:Code>objectif</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {46F3BB37-441F-4D20-842C-1DF4EF2BFFB1}
-DAT 1419787516</a:History>
+<a:History>ORG {CB483E8B-A021-45CB-875A-843FC9DC1076}
+DAT 1419791235</a:History>
 <a:DataType>varchar(254)</a:DataType>
 <a:Length>254</a:Length>
 </o:Column>
 <o:Column Id="o44">
-<a:ObjectID>8A289C13-794E-426D-9B6F-811305D70611</a:ObjectID>
-<a:Name>Code</a:Name>
-<a:Code>code</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:ObjectID>00C47D39-CBBF-451B-9719-AAE7D809610B</a:ObjectID>
+<a:Name>Ordre</a:Name>
+<a:Code>ordre</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {58641EA1-2C30-410D-85EA-986A93166B04}
-DAT 1419787516</a:History>
+<a:History>ORG {A5A92C2E-356C-49C1-B7C5-0C0713D1685D}
+DAT 1419791235</a:History>
 <a:DataType>int</a:DataType>
 </o:Column>
 <o:Column Id="o45">
-<a:ObjectID>BB8939AD-3FDF-4AEB-8AD8-BA488D72B3BF</a:ObjectID>
-<a:Name>Description</a:Name>
-<a:Code>description</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:ObjectID>21124D17-96A9-4B97-8BB9-17CBACAE200B</a:ObjectID>
+<a:Name>Durée</a:Name>
+<a:Code>duree</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {438D09F7-A362-40E6-9DF4-D20F4C4022C4}
-DAT 1419787516</a:History>
-<a:DataType>varchar(254)</a:DataType>
-<a:Length>254</a:Length>
+<a:History>ORG {053BC364-A075-4B9C-96CF-4973933187D3}
+DAT 1419791235</a:History>
+<a:DataType>int</a:DataType>
 </o:Column>
 </c:Columns>
 <c:Keys>
 <o:Key Id="o46">
-<a:ObjectID>6A52B7F5-4C01-4324-81E0-EAE2102A2232</a:ObjectID>
+<a:ObjectID>54AD8763-7C60-418A-85A6-1BA93679E0B6</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {E51AF97C-6731-4ED8-BB94-577F1BF46106}
-DAT 1419787516</a:History>
+<a:History>ORG {8A576771-F558-49A6-92EB-065E1894E625}
+DAT 1419791235</a:History>
 <c:Key.Columns>
-<o:Column Ref="o42"/>
+<o:Column Ref="o40"/>
 </c:Key.Columns>
 </o:Key>
 </c:Keys>
 <c:Indexes>
 <o:Index Id="o47">
-<a:ObjectID>80226202-89EA-4207-AA0A-33B838B33329</a:ObjectID>
-<a:Name>SNIVEAUCOMPETENCE_PK</a:Name>
-<a:Code>SNIVEAUCOMPETENCE_PK</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:ObjectID>6CFB6310-A2C3-4D82-99C6-BE1D64282CE2</a:ObjectID>
+<a:Name>PREVISIONSEANCE_PK</a:Name>
+<a:Code>PREVISIONSEANCE_PK</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:Unique>1</a:Unique>
 <c:LinkedObject>
@@ -2450,172 +2331,930 @@ DAT 1419787516</a:History>
 </c:LinkedObject>
 <c:IndexColumns>
 <o:IndexColumn Id="o48">
-<a:ObjectID>B2D442A0-4FAC-4F73-BA11-6094D7714C7C</a:ObjectID>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:ObjectID>5D86287F-AB47-416E-8B92-0614A6174E26</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <c:Column>
-<o:Column Ref="o42"/>
+<o:Column Ref="o40"/>
 </c:Column>
 </o:IndexColumn>
 </c:IndexColumns>
+</o:Index>
+<o:Index Id="o49">
+<a:ObjectID>4EC40362-9E7B-45EE-9B06-89A453C6A6D0</a:ObjectID>
+<a:Name>ASSOCIATION10_FK</a:Name>
+<a:Code>ASSOCIATION10_FK</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:LinkedObject>
+<o:Reference Ref="o21"/>
+</c:LinkedObject>
+<c:IndexColumns>
+<o:IndexColumn Id="o50">
+<a:ObjectID>89FCAC66-0A31-41CA-8D99-6651E44708B7</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Column>
+<o:Column Ref="o41"/>
+</c:Column>
+</o:IndexColumn>
+</c:IndexColumns>
+</o:Index>
+<o:Index Id="o51">
+<a:ObjectID>18A1B233-9A5F-4FE4-AB7C-67BC515B805C</a:ObjectID>
+<a:Name>ASSOCIATION6_FK</a:Name>
+<a:Code>ASSOCIATION6_FK</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:LinkedObject>
+<o:Reference Ref="o30"/>
+</c:LinkedObject>
 </o:Index>
 </c:Indexes>
 <c:PrimaryKey>
 <o:Key Ref="o46"/>
 </c:PrimaryKey>
 </o:Table>
-<o:Table Id="o17">
-<a:ObjectID>C54E6432-FC6D-4ECD-8294-E5B03E7895EF</a:ObjectID>
-<a:Name>CatégogieActivité</a:Name>
-<a:Code>CategogieActivite</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<o:Table Id="o32">
+<a:ObjectID>30D4677C-B78F-4E61-91AA-186D74F29FC8</a:ObjectID>
+<a:Name>Activite</a:Name>
+<a:Code>Activite</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419788073</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {081E584E-22F4-4E14-9599-000A569D5DEA}
-DAT 1419787516
-ATT PRIK</a:History>
+<a:History>ORG {ADBA6BB8-AA41-4E77-B885-250E1C6DA8B7}
+DAT 1419791235</a:History>
 <a:TotalSavingCurrency/>
 <c:Columns>
-<o:Column Id="o49">
-<a:ObjectID>3CC12200-8945-4664-98CA-CDC128B8516C</a:ObjectID>
-<a:Name>Id</a:Name>
-<a:Code>id</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<o:Column Id="o52">
+<a:ObjectID>46CCD245-2002-4566-BD12-DDBDAC3A7059</a:ObjectID>
+<a:Name>CatégogieActivité_Id</a:Name>
+<a:Code>CategogieActivite_id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419788073</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {F7A728A1-EFBA-46A8-8AD7-35FF4F2C5B28}
-DAT 1419787516</a:History>
 <a:DataType>int</a:DataType>
 <a:Mandatory>1</a:Mandatory>
 </o:Column>
-<o:Column Id="o50">
-<a:ObjectID>FC0A5B00-12D9-4A31-89F1-4F8072619603</a:ObjectID>
-<a:Name>Nom</a:Name>
-<a:Code>nom</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<o:Column Id="o53">
+<a:ObjectID>04B9CF48-AA4C-4C89-B6FF-2E4D4E2CFD84</a:ObjectID>
+<a:Name>StratégiePédagogie_Id</a:Name>
+<a:Code>StrategiePedagogie_id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787860</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {732DAD56-5BAB-4382-A6D3-A8923549722B}
-DAT 1419787516</a:History>
+<a:DataType>int</a:DataType>
+<a:Mandatory>1</a:Mandatory>
+</o:Column>
+<o:Column Id="o54">
+<a:ObjectID>DCE4B08A-B1B4-4A9B-AC32-E5163970B0A4</a:ObjectID>
+<a:Name>Id</a:Name>
+<a:Code>Id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {728F592B-B63E-4B74-9FFC-ECAE568ECD81}
+DAT 1419791235</a:History>
+<a:DataType>int</a:DataType>
+</o:Column>
+<o:Column Id="o55">
+<a:ObjectID>538A661C-C5E6-4D10-BFB4-4993C270ACC7</a:ObjectID>
+<a:Name>Objectif</a:Name>
+<a:Code>Objectif</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {DE7ADDB6-5E0C-427C-B280-EE6B9BCB59F8}
+DAT 1419791235</a:History>
+<a:DataType>varchar(254)</a:DataType>
+<a:Length>254</a:Length>
+</o:Column>
+<o:Column Id="o56">
+<a:ObjectID>2D9DFE8B-7AB8-40ED-AFAE-4619C5576C9F</a:ObjectID>
+<a:Name>Duree</a:Name>
+<a:Code>Duree</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {D9C7CFE3-65AA-499A-80C4-1046B6A62432}
+DAT 1419791235</a:History>
+<a:DataType>int</a:DataType>
+</o:Column>
+<o:Column Id="o57">
+<a:ObjectID>942FFAFF-3B51-434E-AE0A-77337222EB2B</a:ObjectID>
+<a:Name>Commentaire</a:Name>
+<a:Code>Commentaire</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {15787E28-FA41-45E6-9214-950993B316CE}
+DAT 1419791235</a:History>
 <a:DataType>varchar(254)</a:DataType>
 <a:Length>254</a:Length>
 </o:Column>
 </c:Columns>
-<c:Keys>
-<o:Key Id="o51">
-<a:ObjectID>5EF5BC0F-493B-48CF-BAF9-844BE9BB42E3</a:ObjectID>
+<c:Indexes>
+<o:Index Id="o58">
+<a:ObjectID>0CC9DDDD-21DB-41DC-B2BA-424B2BAC5241</a:ObjectID>
+<a:Name>ASSOCIATION9_FK</a:Name>
+<a:Code>ASSOCIATION9_FK</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:LinkedObject>
+<o:Reference Ref="o15"/>
+</c:LinkedObject>
+<c:IndexColumns>
+<o:IndexColumn Id="o59">
+<a:ObjectID>3C6FA7E1-0620-4853-8C1C-F73905646F76</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Column>
+<o:Column Ref="o53"/>
+</c:Column>
+</o:IndexColumn>
+</c:IndexColumns>
+</o:Index>
+<o:Index Id="o60">
+<a:ObjectID>820F2CA8-61E3-49BE-BBBB-C88E96261000</a:ObjectID>
+<a:Name>ASSOCIATION7_FK</a:Name>
+<a:Code>ASSOCIATION7_FK</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:LinkedObject>
+<o:Reference Ref="o18"/>
+</c:LinkedObject>
+<c:IndexColumns>
+<o:IndexColumn Id="o61">
+<a:ObjectID>66C9BE4D-946B-4B9E-A6C4-BBFD1F75C3AF</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Column>
+<o:Column Ref="o52"/>
+</c:Column>
+</o:IndexColumn>
+</c:IndexColumns>
+</o:Index>
+</c:Indexes>
+</o:Table>
+<o:Shortcut Id="o33">
+<a:ObjectID>6A1AFAC9-4B84-4F61-A64F-48353E6B407D</a:ObjectID>
+<a:Name>StratégiePédagogie</a:Name>
+<a:Code>StrategiePedagogie</a:Code>
+<a:CreationDate>0</a:CreationDate>
+<a:Creator/>
+<a:ModificationDate>0</a:ModificationDate>
+<a:Modifier/>
+<a:History>ORG {4A1A7006-7E3F-42F1-B112-1D4BB49FB002}
+DAT 1419791235</a:History>
+<a:TargetStereotype/>
+<a:TargetID>42ED6EC4-FEB4-4BC8-86FB-E7AF8CE6FC92</a:TargetID>
+<a:TargetClassID>380BAA40-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;</a:TargetPackagePath>
+<c:SubShortcuts>
+<o:Shortcut Id="o62">
+<a:ObjectID>F04653F8-FF60-468B-9630-B1AAE00A63D4</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
-<a:CreationDate>1419788071</a:CreationDate>
+<a:CreationDate>0</a:CreationDate>
+<a:Creator/>
+<a:ModificationDate>0</a:ModificationDate>
+<a:Modifier/>
+<a:TargetStereotype/>
+<a:TargetID>20A2AC7C-1D69-416C-98BF-17739B1C3AD0</a:TargetID>
+<a:TargetClassID>380BAA44-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;::StratégiePédagogie</a:TargetPackagePath>
+</o:Shortcut>
+<o:Shortcut Id="o63">
+<a:ObjectID>EFF47CAB-D8CD-45D6-BF33-382EA55AC7F2</a:ObjectID>
+<a:Name>Id</a:Name>
+<a:Code>id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419788073</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {D81A87C4-4D50-419D-9138-4DA90B0376BD}
-DAT 1419788071
-INS COLNCOL {F7A728A1-EFBA-46A8-8AD7-35FF4F2C5B28}</a:History>
+<a:TargetStereotype/>
+<a:TargetID>A50BB720-9520-4E53-A3C8-FB1FE61744A3</a:TargetID>
+<a:TargetClassID>380BAA41-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;::StratégiePédagogie</a:TargetPackagePath>
+</o:Shortcut>
+</c:SubShortcuts>
+</o:Shortcut>
+<o:Shortcut Id="o34">
+<a:ObjectID>16DD565A-4486-428D-83EC-F6CD048773E1</a:ObjectID>
+<a:Name>CatégogieActivité</a:Name>
+<a:Code>CategogieActivite</a:Code>
+<a:CreationDate>0</a:CreationDate>
+<a:Creator/>
+<a:ModificationDate>0</a:ModificationDate>
+<a:Modifier/>
+<a:History>ORG {858CF657-C9CB-4969-9B8B-B2A236B85A7D}
+DAT 1419791235</a:History>
+<a:TargetStereotype/>
+<a:TargetID>C54E6432-FC6D-4ECD-8294-E5B03E7895EF</a:TargetID>
+<a:TargetClassID>380BAA40-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;</a:TargetPackagePath>
+<c:SubShortcuts>
+<o:Shortcut Id="o64">
+<a:ObjectID>4BEA0682-1BEA-4EDB-BB1C-6EE5F31C5791</a:ObjectID>
+<a:Name>Identifiant_1</a:Name>
+<a:Code>Identifiant_1</a:Code>
+<a:CreationDate>0</a:CreationDate>
+<a:Creator/>
+<a:ModificationDate>0</a:ModificationDate>
+<a:Modifier/>
+<a:TargetStereotype/>
+<a:TargetID>5EF5BC0F-493B-48CF-BAF9-844BE9BB42E3</a:TargetID>
+<a:TargetClassID>380BAA44-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;::CatégogieActivité</a:TargetPackagePath>
+</o:Shortcut>
+<o:Shortcut Id="o65">
+<a:ObjectID>C0F73EA6-69BA-4CC5-A348-B2619E893060</a:ObjectID>
+<a:Name>Id</a:Name>
+<a:Code>id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:TargetStereotype/>
+<a:TargetID>3CC12200-8945-4664-98CA-CDC128B8516C</a:TargetID>
+<a:TargetClassID>380BAA41-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;::CatégogieActivité</a:TargetPackagePath>
+</o:Shortcut>
+</c:SubShortcuts>
+</o:Shortcut>
+<o:Shortcut Id="o35">
+<a:ObjectID>8F6079A2-591A-43E3-A92A-85945613D9B7</a:ObjectID>
+<a:Name>CatégogiesSalleFormation</a:Name>
+<a:Code>CategogiesSalleFormation</a:Code>
+<a:CreationDate>0</a:CreationDate>
+<a:Creator/>
+<a:ModificationDate>0</a:ModificationDate>
+<a:Modifier/>
+<a:History>ORG {48B56D9B-1C1C-49C3-94F7-142090448917}
+DAT 1419791235</a:History>
+<a:TargetStereotype/>
+<a:TargetID>C3BC309E-DB22-41E4-8E0B-BB9674B25AAE</a:TargetID>
+<a:TargetClassID>380BAA40-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;</a:TargetPackagePath>
+<c:SubShortcuts>
+<o:Shortcut Id="o66">
+<a:ObjectID>9DF717EF-1E93-42DF-B57D-D8C6EB4C1AB8</a:ObjectID>
+<a:Name>Identifiant_1</a:Name>
+<a:Code>Identifiant_1</a:Code>
+<a:CreationDate>0</a:CreationDate>
+<a:Creator/>
+<a:ModificationDate>0</a:ModificationDate>
+<a:Modifier/>
+<a:TargetStereotype/>
+<a:TargetID>C0C80EA5-DB92-4323-AC41-1D9E379663E8</a:TargetID>
+<a:TargetClassID>380BAA44-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;::CatégogiesSalleFormation</a:TargetPackagePath>
+</o:Shortcut>
+<o:Shortcut Id="o67">
+<a:ObjectID>9453313B-5D05-408C-8CD7-E693FCF03D19</a:ObjectID>
+<a:Name>Id</a:Name>
+<a:Code>id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:TargetStereotype/>
+<a:TargetID>F504946F-2030-48E0-9ED5-17F97DD18282</a:TargetID>
+<a:TargetClassID>380BAA41-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;::CatégogiesSalleFormation</a:TargetPackagePath>
+</o:Shortcut>
+</c:SubShortcuts>
+</o:Shortcut>
+<o:Shortcut Id="o36">
+<a:ObjectID>9DDD2073-C238-46B7-B03A-439E4AC0D7E7</a:ObjectID>
+<a:Name>ContenuePrecision</a:Name>
+<a:Code>ContenuePrecision</a:Code>
+<a:CreationDate>0</a:CreationDate>
+<a:Creator/>
+<a:ModificationDate>0</a:ModificationDate>
+<a:Modifier/>
+<a:History>ORG {CEEF0433-61F1-4395-84DA-E0CFECD439B4}
+DAT 1419791235</a:History>
+<a:TargetStereotype/>
+<a:TargetID>F8F72910-9118-4544-BAA4-A4BEA7D8A7FE</a:TargetID>
+<a:TargetClassID>380BAA40-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;</a:TargetPackagePath>
+<c:SubShortcuts>
+<o:Shortcut Id="o68">
+<a:ObjectID>6DE48EF6-DEF7-4A51-A0B6-C133C83F5DAB</a:ObjectID>
+<a:Name>Identifiant_1</a:Name>
+<a:Code>Identifiant_1</a:Code>
+<a:CreationDate>0</a:CreationDate>
+<a:Creator/>
+<a:ModificationDate>0</a:ModificationDate>
+<a:Modifier/>
+<a:TargetStereotype/>
+<a:TargetID>2E30D067-FBF2-4E79-97F3-42D2C6C7D2CC</a:TargetID>
+<a:TargetClassID>380BAA44-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;::ContenuePrecision</a:TargetPackagePath>
+</o:Shortcut>
+<o:Shortcut Id="o69">
+<a:ObjectID>DBAB5353-ACD0-4390-85C8-310710F1D7F5</a:ObjectID>
+<a:Name>Id</a:Name>
+<a:Code>id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:TargetStereotype/>
+<a:TargetID>9F6EE6FD-0C87-4624-98BC-9F70DA094BE0</a:TargetID>
+<a:TargetClassID>380BAA41-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;::ContenuePrecision</a:TargetPackagePath>
+</o:Shortcut>
+</c:SubShortcuts>
+</o:Shortcut>
+<o:Shortcut Id="o37">
+<a:ObjectID>91652717-DE0F-43DC-ADDA-57C1C3D87317</a:ObjectID>
+<a:Name>Séquences</a:Name>
+<a:Code>Sequences</a:Code>
+<a:CreationDate>0</a:CreationDate>
+<a:Creator/>
+<a:ModificationDate>0</a:ModificationDate>
+<a:Modifier/>
+<a:History>ORG {D02C1809-3449-48B8-8AA2-44A3B08095C3}
+DAT 1419791235</a:History>
+<a:TargetStereotype/>
+<a:TargetID>F8889EE0-61BB-4AB8-A46C-723950F6DADC</a:TargetID>
+<a:TargetClassID>380BAA40-0042-11D2-BD28-00A02478ECC9</a:TargetClassID>
+<a:TargetPackagePath>&lt;Modèle&gt;</a:TargetPackagePath>
+</o:Shortcut>
+<o:Table Id="o38">
+<a:ObjectID>73BF87BF-220F-4527-99A6-6CD91C7EE908</a:ObjectID>
+<a:Name>Association_1</a:Name>
+<a:Code>Association_1</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {03BFD261-BAE1-48D9-85DB-AFA0D1831687}
+DAT 1419791235</a:History>
+<a:TotalSavingCurrency/>
+<c:Columns>
+<o:Column Id="o70">
+<a:ObjectID>2E262FEB-DABB-42DA-9F12-390D9A3F3043</a:ObjectID>
+<a:Name>PrévisionSéance_Id</a:Name>
+<a:Code>PrevisionSeance_Id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {A512CE8E-8982-482F-B0E5-3F452D1A7F1A},{03BFD261-BAE1-48D9-85DB-AFA0D1831687}
+DAT 1419791235</a:History>
+<a:DataType>int</a:DataType>
+<a:Mandatory>1</a:Mandatory>
+</o:Column>
+</c:Columns>
+<c:Keys>
+<o:Key Id="o71">
+<a:ObjectID>C1DA550E-1BBC-49F7-A091-2790B4B96EC2</a:ObjectID>
+<a:Name>Identifiant_1</a:Name>
+<a:Code>Identifiant_1</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {8A576771-F558-49A6-92EB-065E1894E625}
+DAT 1419791235</a:History>
 <c:Key.Columns>
-<o:Column Ref="o49"/>
+<o:Column Ref="o70"/>
 </c:Key.Columns>
 </o:Key>
 </c:Keys>
 <c:Indexes>
-<o:Index Id="o52">
-<a:ObjectID>71B7670F-0C7D-4DD1-B6D3-8A18BC72AD49</a:ObjectID>
-<a:Name>CATEGOGIEACTIVITE_PK</a:Name>
-<a:Code>CATEGOGIEACTIVITE_PK</a:Code>
-<a:CreationDate>1419788071</a:CreationDate>
+<o:Index Id="o72">
+<a:ObjectID>CA50593E-1231-46A4-8E27-F70CB43676E0</a:ObjectID>
+<a:Name>ASSOCIATION_1_PK</a:Name>
+<a:Code>ASSOCIATION_1_PK</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419788073</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:Unique>1</a:Unique>
 <c:LinkedObject>
-<o:Key Ref="o51"/>
+<o:Key Ref="o71"/>
 </c:LinkedObject>
 <c:IndexColumns>
-<o:IndexColumn Id="o53">
-<a:ObjectID>50E105D2-4046-4549-87EB-06F83B1CC872</a:ObjectID>
-<a:CreationDate>1419788071</a:CreationDate>
+<o:IndexColumn Id="o73">
+<a:ObjectID>B055C8B1-28E1-4BAB-8E1C-D41DBF7AB325</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419788073</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <c:Column>
-<o:Column Ref="o49"/>
+<o:Column Ref="o70"/>
+</c:Column>
+</o:IndexColumn>
+</c:IndexColumns>
+</o:Index>
+<o:Index Id="o74">
+<a:ObjectID>73E02BFC-277C-4CE3-A202-E1224901A98D</a:ObjectID>
+<a:Name>ASSOCIATION_1_FK</a:Name>
+<a:Code>ASSOCIATION_1_FK</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:LinkedObject>
+<o:Reference Ref="o12"/>
+</c:LinkedObject>
+</o:Index>
+</c:Indexes>
+<c:PrimaryKey>
+<o:Key Ref="o71"/>
+</c:PrimaryKey>
+</o:Table>
+<o:Table Id="o39">
+<a:ObjectID>6DD460D9-9787-4A9A-9BEC-D83CE672267A</a:ObjectID>
+<a:Name>Association_11</a:Name>
+<a:Code>Association11</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {3C9B778B-7497-453C-B61D-B83771AD3166}
+DAT 1419791235</a:History>
+<a:TotalSavingCurrency/>
+<a:ExtendedAttributesText>{48DE8DAA-F163-416B-ACAA-3F3ABD6F9EE9},C# 2,128={B30A1960-E74E-41E5-88BC-74AF259F1A68},roleAContainer,6=&lt;None&gt;
+{CB967141-7AEA-46EE-A911-277E1F053A1B},roleBContainer,6=&lt;None&gt;
+
+</a:ExtendedAttributesText>
+<c:Columns>
+<o:Column Id="o75">
+<a:ObjectID>9A0D27A7-C078-4604-9823-F6FF0F014271</a:ObjectID>
+<a:Name>PrévisionSéance_Id</a:Name>
+<a:Code>PrevisionSeance_Id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {A512CE8E-8982-482F-B0E5-3F452D1A7F1A},{3C9B778B-7497-453C-B61D-B83771AD3166}
+DAT 1419791235</a:History>
+<a:DataType>int</a:DataType>
+<a:Mandatory>1</a:Mandatory>
+</o:Column>
+<o:Column Id="o76">
+<a:ObjectID>5DD382D7-730C-47E4-A048-42F1D11D8460</a:ObjectID>
+<a:Name>ContenuePrecision_Id</a:Name>
+<a:Code>ContenuePrecision_id</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:DataType>int</a:DataType>
+<a:Mandatory>1</a:Mandatory>
+</o:Column>
+</c:Columns>
+<c:Keys>
+<o:Key Id="o77">
+<a:ObjectID>648D80A9-FCDC-48B5-8CC9-2D07A3EE13F8</a:ObjectID>
+<a:Name>Identifiant_1</a:Name>
+<a:Code>Identifiant_1</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Key.Columns>
+<o:Column Ref="o75"/>
+<o:Column Ref="o76"/>
+</c:Key.Columns>
+</o:Key>
+</c:Keys>
+<c:Indexes>
+<o:Index Id="o78">
+<a:ObjectID>9B39CBC2-ED53-4656-AC9F-AF8B92EC0296</a:ObjectID>
+<a:Name>ASSOCIATION11_PK</a:Name>
+<a:Code>ASSOCIATION11_PK</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:Unique>1</a:Unique>
+<c:LinkedObject>
+<o:Key Ref="o77"/>
+</c:LinkedObject>
+<c:IndexColumns>
+<o:IndexColumn Id="o79">
+<a:ObjectID>1CA34366-A8FB-4AB7-B629-7D7FA52304C8</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Column>
+<o:Column Ref="o75"/>
+</c:Column>
+</o:IndexColumn>
+<o:IndexColumn Id="o80">
+<a:ObjectID>D9B4300A-958E-4775-A4F7-BACB1CD96EA8</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Column>
+<o:Column Ref="o76"/>
+</c:Column>
+</o:IndexColumn>
+</c:IndexColumns>
+</o:Index>
+<o:Index Id="o81">
+<a:ObjectID>4834D12C-5734-41BD-BF41-2A3983875A30</a:ObjectID>
+<a:Name>ASSOCIATION11_FK</a:Name>
+<a:Code>ASSOCIATION11_FK</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:LinkedObject>
+<o:Reference Ref="o24"/>
+</c:LinkedObject>
+<c:IndexColumns>
+<o:IndexColumn Id="o82">
+<a:ObjectID>1596B014-854D-4687-A275-9124F6543043</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Column>
+<o:Column Ref="o75"/>
+</c:Column>
+</o:IndexColumn>
+</c:IndexColumns>
+</o:Index>
+<o:Index Id="o83">
+<a:ObjectID>F32A695F-3EEA-4828-A7E6-1EBAC1F78E00</a:ObjectID>
+<a:Name>ASSOCIATION11_FK2</a:Name>
+<a:Code>ASSOCIATION11_FK2</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:LinkedObject>
+<o:Reference Ref="o27"/>
+</c:LinkedObject>
+<c:IndexColumns>
+<o:IndexColumn Id="o84">
+<a:ObjectID>689034F9-FE04-4B5A-B6D0-026C87707B75</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Column>
+<o:Column Ref="o76"/>
 </c:Column>
 </o:IndexColumn>
 </c:IndexColumns>
 </o:Index>
 </c:Indexes>
 <c:PrimaryKey>
-<o:Key Ref="o51"/>
+<o:Key Ref="o77"/>
 </c:PrimaryKey>
 </o:Table>
 </c:Tables>
 <c:References>
 <o:Reference Id="o9">
-<a:ObjectID>296B3A4D-0015-4E3C-8FEF-3CF722A99DF8</a:ObjectID>
+<a:ObjectID>7B103FB9-EEAC-48B9-89C6-1787A18EFA97</a:ObjectID>
 <a:Name>Association_1</a:Name>
-<a:Code>Association1</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:Code>Association_1</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787703</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:History>ORG {905D711D-3A51-495A-A094-395C8846731C}
-DAT 1419787516</a:History>
+<a:History>ORG {03BFD261-BAE1-48D9-85DB-AFA0D1831687}
+DAT 1419791235</a:History>
+<a:Cardinality>1..*</a:Cardinality>
+<a:UpdateConstraint>1</a:UpdateConstraint>
+<a:DeleteConstraint>1</a:DeleteConstraint>
+<c:ParentTable>
+<o:Table Ref="o31"/>
+</c:ParentTable>
+<c:ChildTable>
+<o:Table Ref="o38"/>
+</c:ChildTable>
+<c:ParentKey>
+<o:Key Ref="o46"/>
+</c:ParentKey>
+<c:Joins>
+<o:ReferenceJoin Id="o85">
+<a:ObjectID>C2C662C6-DDA8-4ADF-81DF-1299D9F9DCED</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Object1>
+<o:Column Ref="o40"/>
+</c:Object1>
+<c:Object2>
+<o:Column Ref="o70"/>
+</c:Object2>
+</o:ReferenceJoin>
+</c:Joins>
+</o:Reference>
+<o:Reference Id="o12">
+<a:ObjectID>B6F0B6B1-81F5-4C38-A29B-FF2E9AE3B75C</a:ObjectID>
+<a:Name>Association_1</a:Name>
+<a:Code>Association_1</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {03BFD261-BAE1-48D9-85DB-AFA0D1831687}
+DAT 1419791235
+ATT MAND</a:History>
+<a:Cardinality>1..*</a:Cardinality>
+<a:UpdateConstraint>1</a:UpdateConstraint>
+<a:DeleteConstraint>1</a:DeleteConstraint>
+<c:ParentTable>
+<o:Table Ref="o32"/>
+</c:ParentTable>
+<c:ChildTable>
+<o:Table Ref="o38"/>
+</c:ChildTable>
+</o:Reference>
+<o:Reference Id="o15">
+<a:ObjectID>85BA3D34-891C-493E-9840-D06C93C1A57A</a:ObjectID>
+<a:Name>Association_9</a:Name>
+<a:Code>Association9</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {6D8B3E55-A019-4D95-B874-288A92E14362}
+DAT 1419791235
+ATT MAND</a:History>
 <a:Cardinality>0..*</a:Cardinality>
+<a:UpdateConstraint>1</a:UpdateConstraint>
+<a:DeleteConstraint>1</a:DeleteConstraint>
 <a:ExtendedAttributesText>{48DE8DAA-F163-416B-ACAA-3F3ABD6F9EE9},C# 2,128={B30A1960-E74E-41E5-88BC-74AF259F1A68},roleAContainer,6=&lt;None&gt;
 {CB967141-7AEA-46EE-A911-277E1F053A1B},roleBContainer,6=&lt;None&gt;
 
 </a:ExtendedAttributesText>
 <c:ParentTable>
-<o:Table Ref="o10"/>
+<o:Shortcut Ref="o33"/>
 </c:ParentTable>
 <c:ChildTable>
-<o:Table Ref="o11"/>
+<o:Table Ref="o32"/>
 </c:ChildTable>
 <c:ParentKey>
-<o:Key Ref="o22"/>
+<o:Shortcut Ref="o62"/>
 </c:ParentKey>
 <c:Joins>
-<o:ReferenceJoin Id="o54">
-<a:ObjectID>41683CCE-E61E-411C-B639-A642ED100CFE</a:ObjectID>
-<a:CreationDate>1419787516</a:CreationDate>
+<o:ReferenceJoin Id="o86">
+<a:ObjectID>AF16D5BC-133C-4E75-A8BB-C0F6769C75CC</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787516</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <c:Object1>
-<o:Column Ref="o18"/>
+<o:Shortcut Ref="o63"/>
 </c:Object1>
 <c:Object2>
-<o:Column Ref="o26"/>
+<o:Column Ref="o53"/>
 </c:Object2>
 </o:ReferenceJoin>
 </c:Joins>
 </o:Reference>
+<o:Reference Id="o18">
+<a:ObjectID>0BD64640-537D-4F36-A9D5-7AB682AA4CE1</a:ObjectID>
+<a:Name>Association_7</a:Name>
+<a:Code>Association7</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {08561826-20D6-42DB-8B95-2736F156397A}
+DAT 1419791235
+ATT MAND</a:History>
+<a:Cardinality>0..*</a:Cardinality>
+<a:UpdateConstraint>1</a:UpdateConstraint>
+<a:DeleteConstraint>1</a:DeleteConstraint>
+<a:ExtendedAttributesText>{48DE8DAA-F163-416B-ACAA-3F3ABD6F9EE9},C# 2,128={B30A1960-E74E-41E5-88BC-74AF259F1A68},roleAContainer,6=&lt;None&gt;
+{CB967141-7AEA-46EE-A911-277E1F053A1B},roleBContainer,6=&lt;None&gt;
+
+</a:ExtendedAttributesText>
+<c:ParentTable>
+<o:Shortcut Ref="o34"/>
+</c:ParentTable>
+<c:ChildTable>
+<o:Table Ref="o32"/>
+</c:ChildTable>
+<c:ParentKey>
+<o:Shortcut Ref="o64"/>
+</c:ParentKey>
+<c:Joins>
+<o:ReferenceJoin Id="o87">
+<a:ObjectID>3A5B3FA5-3A84-4409-B7E6-228FD5887E86</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Object1>
+<o:Shortcut Ref="o65"/>
+</c:Object1>
+<c:Object2>
+<o:Column Ref="o52"/>
+</c:Object2>
+</o:ReferenceJoin>
+</c:Joins>
+</o:Reference>
+<o:Reference Id="o21">
+<a:ObjectID>06B5042C-A06D-4259-9243-1DBCF3311052</a:ObjectID>
+<a:Name>Association_10</a:Name>
+<a:Code>Association10</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {723637E4-45DA-45CE-A28B-A3E66D649C2C}
+DAT 1419791235
+ATT MAND</a:History>
+<a:Cardinality>0..*</a:Cardinality>
+<a:UpdateConstraint>1</a:UpdateConstraint>
+<a:DeleteConstraint>1</a:DeleteConstraint>
+<a:ExtendedAttributesText>{48DE8DAA-F163-416B-ACAA-3F3ABD6F9EE9},C# 2,128={B30A1960-E74E-41E5-88BC-74AF259F1A68},roleAContainer,6=&lt;None&gt;
+{CB967141-7AEA-46EE-A911-277E1F053A1B},roleBContainer,6=&lt;None&gt;
+
+</a:ExtendedAttributesText>
+<c:ParentTable>
+<o:Shortcut Ref="o35"/>
+</c:ParentTable>
+<c:ChildTable>
+<o:Table Ref="o31"/>
+</c:ChildTable>
+<c:ParentKey>
+<o:Shortcut Ref="o66"/>
+</c:ParentKey>
+<c:Joins>
+<o:ReferenceJoin Id="o88">
+<a:ObjectID>0B317E21-A983-43F6-9032-06A57C17BF5C</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Object1>
+<o:Shortcut Ref="o67"/>
+</c:Object1>
+<c:Object2>
+<o:Column Ref="o41"/>
+</c:Object2>
+</o:ReferenceJoin>
+</c:Joins>
+</o:Reference>
+<o:Reference Id="o24">
+<a:ObjectID>034F20D3-45F5-49F8-80FF-E509A445749A</a:ObjectID>
+<a:Name>Association_11</a:Name>
+<a:Code>Association11</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {3C9B778B-7497-453C-B61D-B83771AD3166}
+DAT 1419791235</a:History>
+<a:Cardinality>1..*</a:Cardinality>
+<a:UpdateConstraint>1</a:UpdateConstraint>
+<a:DeleteConstraint>1</a:DeleteConstraint>
+<a:ExtendedAttributesText>{48DE8DAA-F163-416B-ACAA-3F3ABD6F9EE9},C# 2,128={B30A1960-E74E-41E5-88BC-74AF259F1A68},roleAContainer,6=&lt;None&gt;
+{CB967141-7AEA-46EE-A911-277E1F053A1B},roleBContainer,6=&lt;None&gt;
+
+</a:ExtendedAttributesText>
+<c:ParentTable>
+<o:Table Ref="o31"/>
+</c:ParentTable>
+<c:ChildTable>
+<o:Table Ref="o39"/>
+</c:ChildTable>
+<c:ParentKey>
+<o:Key Ref="o46"/>
+</c:ParentKey>
+<c:Joins>
+<o:ReferenceJoin Id="o89">
+<a:ObjectID>9FF1C060-627A-484B-8DE6-EEA9B40BD12E</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Object1>
+<o:Column Ref="o40"/>
+</c:Object1>
+<c:Object2>
+<o:Column Ref="o75"/>
+</c:Object2>
+</o:ReferenceJoin>
+</c:Joins>
+</o:Reference>
+<o:Reference Id="o27">
+<a:ObjectID>0BD08C06-0933-425C-A645-85720EA8A5E2</a:ObjectID>
+<a:Name>Association_11</a:Name>
+<a:Code>Association11</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {3C9B778B-7497-453C-B61D-B83771AD3166}
+DAT 1419791235</a:History>
+<a:Cardinality>0..*</a:Cardinality>
+<a:UpdateConstraint>1</a:UpdateConstraint>
+<a:DeleteConstraint>1</a:DeleteConstraint>
+<a:ExtendedAttributesText>{48DE8DAA-F163-416B-ACAA-3F3ABD6F9EE9},C# 2,128={B30A1960-E74E-41E5-88BC-74AF259F1A68},roleAContainer,6=&lt;None&gt;
+{CB967141-7AEA-46EE-A911-277E1F053A1B},roleBContainer,6=&lt;None&gt;
+
+</a:ExtendedAttributesText>
+<c:ParentTable>
+<o:Shortcut Ref="o36"/>
+</c:ParentTable>
+<c:ChildTable>
+<o:Table Ref="o39"/>
+</c:ChildTable>
+<c:ParentKey>
+<o:Shortcut Ref="o68"/>
+</c:ParentKey>
+<c:Joins>
+<o:ReferenceJoin Id="o90">
+<a:ObjectID>8C712DEB-2C51-478E-B24B-CA8CEDE8BA52</a:ObjectID>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<c:Object1>
+<o:Shortcut Ref="o69"/>
+</c:Object1>
+<c:Object2>
+<o:Column Ref="o76"/>
+</c:Object2>
+</o:ReferenceJoin>
+</c:Joins>
+</o:Reference>
+<o:Reference Id="o30">
+<a:ObjectID>2B7D5DAC-A120-49A3-B5CD-C423ABCEFC9D</a:ObjectID>
+<a:Name>Association_6</a:Name>
+<a:Code>Association6</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:History>ORG {667098F2-0B6D-477E-BD59-3359F20D0634}
+DAT 1419791235
+ATT MAND</a:History>
+<a:Cardinality>0..*</a:Cardinality>
+<a:UpdateConstraint>1</a:UpdateConstraint>
+<a:DeleteConstraint>1</a:DeleteConstraint>
+<a:ExtendedAttributesText>{48DE8DAA-F163-416B-ACAA-3F3ABD6F9EE9},C# 2,128={B30A1960-E74E-41E5-88BC-74AF259F1A68},roleAContainer,6=&lt;None&gt;
+{CB967141-7AEA-46EE-A911-277E1F053A1B},roleBContainer,6=&lt;None&gt;
+
+</a:ExtendedAttributesText>
+<c:ParentTable>
+<o:Shortcut Ref="o37"/>
+</c:ParentTable>
+<c:ChildTable>
+<o:Table Ref="o31"/>
+</c:ChildTable>
+</o:Reference>
 </c:References>
 <c:DefaultGroups>
-<o:Group Id="o55">
-<a:ObjectID>64AF9D85-8878-459E-BAB4-C90C1799E519</a:ObjectID>
+<o:Group Id="o91">
+<a:ObjectID>CEAA4AF5-D142-4626-BE86-33CD229F1A29</a:ObjectID>
 <a:Name>PUBLIC</a:Name>
 <a:Code>PUBLIC</a:Code>
-<a:CreationDate>1419787489</a:CreationDate>
+<a:CreationDate>1419791231</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419787489</a:ModificationDate>
+<a:ModificationDate>1419791231</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 </o:Group>
 </c:DefaultGroups>
 <c:TargetModels>
-<o:TargetModel Id="o56">
-<a:ObjectID>E6A4C195-8C5D-427E-9FB8-DA7FB95D4EB1</a:ObjectID>
+<o:TargetModel Id="o92">
+<a:ObjectID>12B271C4-C250-4B76-9DB0-EBD1B6464A9C</a:ObjectID>
 <a:Name>MySQL 5.0</a:Name>
 <a:Code>MYSQL50</a:Code>
-<a:CreationDate>1419787489</a:CreationDate>
+<a:CreationDate>1419791232</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419847056</a:ModificationDate>
+<a:ModificationDate>1419791232</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:TargetModelURL>file:///%_DBMS%/mysql50.xdb</a:TargetModelURL>
 <a:TargetModelID>F4F16ECD-F2F1-4006-AF6F-638D5C65F35E</a:TargetModelID>
@@ -2624,16 +3263,71 @@ DAT 1419787516</a:History>
 <o:Shortcut Ref="o4"/>
 </c:SessionShortcuts>
 </o:TargetModel>
-<o:TargetModel Id="o57">
-<a:ObjectID>711488C2-7A71-43F5-857E-8E4A086F39EF</a:ObjectID>
+<o:TargetModel Id="o93">
+<a:ObjectID>E2F5DDC6-703E-4945-8872-3D0DF2D16090</a:ObjectID>
 <a:Name>ModeleOrienteObjet_Configuration</a:Name>
-<a:Code>ModeleOrienteObjet_Configuration</a:Code>
-<a:CreationDate>1419787516</a:CreationDate>
+<a:Code>MODELEORIENTEOBJET_CONFIGURATION</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419847056</a:ModificationDate>
+<a:ModificationDate>1419791235</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
-<a:TargetModelURL>file:///C|/Users/ESSARRAJ/Documents/GitHub/modelisation-cplus/DiagrammesDeClasses/Diagrammes/ModeleOrienteObjet_Configuration.moo</a:TargetModelURL>
-<a:TargetModelID>4E101198-B68C-4664-9EF2-523EB34F3A53</a:TargetModelID>
+<a:TargetModelURL>file:///C|/Users/ESSARRAJ/Documents/GitHub/modelisation-cplus/DiagrammesDeClasses/Diagrammes/ModeleOrienteObjet_Configuration.mpd</a:TargetModelURL>
+<a:TargetModelID>02BE1E51-58C3-4FCA-A50F-E97FDB5FA773</a:TargetModelID>
+<a:TargetModelClassID>CDE44E21-9669-11D1-9914-006097355D9B</a:TargetModelClassID>
+<c:SessionShortcuts>
+<o:Shortcut Ref="o33"/>
+<o:Shortcut Ref="o34"/>
+<o:Shortcut Ref="o35"/>
+<o:Shortcut Ref="o62"/>
+<o:Shortcut Ref="o64"/>
+<o:Shortcut Ref="o66"/>
+<o:Shortcut Ref="o65"/>
+<o:Shortcut Ref="o63"/>
+<o:Shortcut Ref="o67"/>
+</c:SessionShortcuts>
+</o:TargetModel>
+<o:TargetModel Id="o94">
+<a:ObjectID>ECC1EB85-B524-455D-9E03-2E1FCEB30233</a:ObjectID>
+<a:Name>ModeleOrienteObjet_Module</a:Name>
+<a:Code>MODELEORIENTEOBJET_MODULE</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:TargetModelURL>file:///C|/Users/ESSARRAJ/Documents/GitHub/modelisation-cplus/DiagrammesDeClasses/Diagrammes/ModeleOrienteObjet_Module.mpd</a:TargetModelURL>
+<a:TargetModelID>6E18E9C6-0EB8-4B03-BE8A-CAD54628DD9C</a:TargetModelID>
+<a:TargetModelClassID>CDE44E21-9669-11D1-9914-006097355D9B</a:TargetModelClassID>
+<c:SessionShortcuts>
+<o:Shortcut Ref="o36"/>
+<o:Shortcut Ref="o68"/>
+<o:Shortcut Ref="o69"/>
+</c:SessionShortcuts>
+</o:TargetModel>
+<o:TargetModel Id="o95">
+<a:ObjectID>8D2A2769-2779-4D00-A7C4-C9FB31F2F809</a:ObjectID>
+<a:Name>ModeleOrienteObjet_Sequences</a:Name>
+<a:Code>MODELEORIENTEOBJET_SEQUENCES</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419847444</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:TargetModelURL>file:///C|/Users/ESSARRAJ/Documents/GitHub/modelisation-cplus/DiagrammesDeClasses/Diagrammes/ModeleOrienteObjet_Sequences.mpd</a:TargetModelURL>
+<a:TargetModelID>84CD8929-D164-4888-8C52-F50352BB1191</a:TargetModelID>
+<a:TargetModelClassID>CDE44E21-9669-11D1-9914-006097355D9B</a:TargetModelClassID>
+<c:SessionShortcuts>
+<o:Shortcut Ref="o37"/>
+</c:SessionShortcuts>
+</o:TargetModel>
+<o:TargetModel Id="o96">
+<a:ObjectID>689062E7-04B3-4D7B-8ACF-2910BFB3C9D8</a:ObjectID>
+<a:Name>ModeleOrienteObjet_Prevision</a:Name>
+<a:Code>ModeleOrienteObjet_Prevision</a:Code>
+<a:CreationDate>1419791235</a:CreationDate>
+<a:Creator>ESSARRAJ</a:Creator>
+<a:ModificationDate>1419791235</a:ModificationDate>
+<a:Modifier>ESSARRAJ</a:Modifier>
+<a:TargetModelURL>file:///C|/Users/ESSARRAJ/Documents/GitHub/modelisation-cplus/DiagrammesDeClasses/Diagrammes/ModeleOrienteObjet_Prevision.moo</a:TargetModelURL>
+<a:TargetModelID>731BE618-FD25-4056-A1BB-8EE94E30F1FE</a:TargetModelID>
 <a:TargetModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:TargetModelClassID>
 <c:SessionShortcuts>
 <o:Shortcut Ref="o3"/>

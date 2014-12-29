@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{88E2E762-C5A4-4E75-919C-C45F2E71E9BC}" Label="" LastModificationDate="1419786116" Name="ModeleOrienteObjet_EmploisTemps" Objects="23" Symbols="7" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{88E2E762-C5A4-4E75-919C-C45F2E71E9BC}" Label="" LastModificationDate="1419786120" Name="ModeleOrienteObjet_EmploisTemps" Objects="23" Symbols="7" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1417,9 +1417,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:AssociationSymbol Id="o10">
 <a:CreationDate>1419782080</a:CreationDate>
-<a:ModificationDate>1419786008</a:ModificationDate>
-<a:Rect>((-16042,3265), (2663,8488))</a:Rect>
-<a:ListOfPoints>((2663,4439),(-6630,4439),(-6630,7314),(-16042,7314))</a:ListOfPoints>
+<a:ModificationDate>1419786120</a:ModificationDate>
+<a:Rect>((-12967,3265), (2663,8413))</a:Rect>
+<a:ListOfPoints>((2663,4439),(-6630,4439),(-6630,7239),(-12967,7239))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -1507,9 +1507,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o11">
 <a:CreationDate>1419782077</a:CreationDate>
-<a:ModificationDate>1419786007</a:ModificationDate>
+<a:ModificationDate>1419786120</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-25303,4277), (-12030,9074))</a:Rect>
+<a:Rect>((-22228,4202), (-8955,8999))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16770222</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>

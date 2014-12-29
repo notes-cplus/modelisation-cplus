@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{C09D5D20-051E-4FD3-B371-B0993C69EFC8}" Label="" LastModificationDate="1419784606" Name="ModeleOrienteObjet_Stagiaire" Objects="25" Symbols="3" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{C09D5D20-051E-4FD3-B371-B0993C69EFC8}" Label="" LastModificationDate="1419784617" Name="ModeleOrienteObjet_Stagiaire" Objects="25" Symbols="3" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -2644,7 +2644,7 @@ Shadow=0</a:DisplayPreferences>
 <o:AssociationSymbol Id="o7">
 <a:CreationDate>1419781995</a:CreationDate>
 <a:ModificationDate>1419783626</a:ModificationDate>
-<a:Rect>((-13425,1875), (9675,13198))</a:Rect>
+<a:Rect>((-13462,1875), (9712,13198))</a:Rect>
 <a:ListOfPoints>((-11625,1875),(-11625,7423),(7725,7423),(7725,13198))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
@@ -3263,10 +3263,9 @@ Shadow=0</a:DisplayPreferences>
 <a:ObjectID>D671A8EC-01E2-4A01-ADFC-438F432B28D4</a:ObjectID>
 <a:Name>ModeleOrienteObjet_Stagiaire</a:Name>
 <a:Code>MODELEORIENTEOBJET_STAGIAIRE</a:Code>
-<a:ExtractionID>123597140</a:ExtractionID>
 <a:CreationDate>1419783377</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419784245</a:ModificationDate>
+<a:ModificationDate>1419784617</a:ModificationDate>
 <a:Modifier>ESSARRAJ</a:Modifier>
 <a:TargetModelURL>file:///C|/Users/ESSARRAJ/Documents/GitHub/modelisation-cplus/DiagrammesDeClasses/Diagrammes/ModeleOrienteObjet_Stagiaire.mpd</a:TargetModelURL>
 <a:TargetModelID>928FA394-353A-442C-98B4-2131BED211B7</a:TargetModelID>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{AE1E45AE-7046-454E-AAD3-5EC013DAD1FF}" Label="" LastModificationDate="1419790370" Name="ModeleOrienteObjet_Sequences" Objects="19" Symbols="5" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{AE1E45AE-7046-454E-AAD3-5EC013DAD1FF}" Label="" LastModificationDate="1419790370" Name="ModeleOrienteObjet_Sequences" Objects="17" Symbols="3" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">

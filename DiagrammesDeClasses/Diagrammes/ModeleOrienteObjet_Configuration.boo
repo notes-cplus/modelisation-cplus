@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{4E101198-B68C-4664-9EF2-523EB34F3A53}" Label="" LastModificationDate="1419789545" Name="ModeleOrienteObjet_Configuration" Objects="37" Symbols="6" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{4E101198-B68C-4664-9EF2-523EB34F3A53}" Label="" LastModificationDate="1419789628" Name="ModeleOrienteObjet_Configuration" Objects="37" Symbols="6" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -2641,12 +2641,12 @@ Shadow=0</a:DisplayPreferences>
 <c:Symbols>
 <o:AssociationSymbol Id="o7">
 <a:CreationDate>1419780970</a:CreationDate>
-<a:ModificationDate>1419787470</a:ModificationDate>
+<a:ModificationDate>1419789628</a:ModificationDate>
 <a:Rect>((-3469,-5476), (1270,5083))</a:Rect>
 <a:ListOfPoints>((-3469,-5476),(-754,-5476),(-754,5083))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
-<a:LineColor>16744448</a:LineColor>
+<a:LineColor>0</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N
 MULA 0 Arial,8,N</a:FontList>
@@ -2662,7 +2662,7 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:ClassSymbol Id="o9">
 <a:CreationDate>1419780970</a:CreationDate>
-<a:ModificationDate>1419787470</a:ModificationDate>
+<a:ModificationDate>1419789628</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-6400,3433), (7848,10823))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
@@ -2687,7 +2687,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o8">
 <a:CreationDate>1419780970</a:CreationDate>
-<a:ModificationDate>1419780970</a:ModificationDate>
+<a:ModificationDate>1419789628</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-12219,-9150), (-2769,-1612))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
@@ -2712,9 +2712,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o13">
 <a:CreationDate>1419780970</a:CreationDate>
-<a:ModificationDate>1419787844</a:ModificationDate>
+<a:ModificationDate>1419789628</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((4742,-4918), (13674,1824))</a:Rect>
+<a:Rect>((3615,-5277), (12547,1465))</a:Rect>
 <a:LineColor>0</a:LineColor>
 <a:FillColor>16777215</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2735,7 +2735,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o15">
 <a:CreationDate>1419780970</a:CreationDate>
-<a:ModificationDate>1419787475</a:ModificationDate>
+<a:ModificationDate>1419789628</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-20555,4129), (-11105,11667))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
@@ -2760,11 +2760,11 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o17">
 <a:CreationDate>1419781285</a:CreationDate>
-<a:ModificationDate>1419787473</a:ModificationDate>
+<a:ModificationDate>1419789628</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-23343,-4284), (-16445,510))</a:Rect>
-<a:LineColor>16744448</a:LineColor>
-<a:FillColor>16770222</a:FillColor>
+<a:Rect>((-22421,-3720), (-15523,1074))</a:Rect>
+<a:LineColor>0</a:LineColor>
+<a:FillColor>16777215</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>STRN 0 Arial,8,N
 DISPNAME 0 Arial,8,N
